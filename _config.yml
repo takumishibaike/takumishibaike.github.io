@@ -13,7 +13,7 @@ name                     : &name "Takumi Shibaike"
 description              : &description "PhD Candidate in Political Science at the University of Toronto"
 url                      : https://takumishibaike.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "takumishibaike/takumishibaike.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
