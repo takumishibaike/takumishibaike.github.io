@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-## CV
-Download CV [here](http://academicpages.github.io/files/shibaike_cv.pdf).
+### CV
+Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf).
