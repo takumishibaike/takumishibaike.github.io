@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 ### Philosophy
-I lead my students to discover the utility of social scientific theories and methods through the critical evaluations of real-world problems. I encourage you to challenge inherited assumptions about the society and politics. I am committed to creating a classroom environment where all students respect each other and embrace the diversity of perspectives.
+I lead my students to discover the utility of social scientific theories and methods through the critical evaluations of real-world problems. I encourage everyone to challenge inherited assumptions about the society and politics. I am committed to creating a classroom environment where all students respect each other and embrace the diversity of perspectives.
 
 ### University of Toronto
 
