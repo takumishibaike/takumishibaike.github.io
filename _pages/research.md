@@ -19,6 +19,8 @@ Global governance is increasingly "opening up" to civil society, and NGOs partic
 
 In so doing, I interrogate the claim that small NGOs are “bandwagoners”  seeking to free-ride on others’ advocacy achievements. While the argument makes sense, it is often an assumption rather than an empirical claim. If they are indeed bandwagoners, why are there so many NGOs participating in global governance? I revisit the question of agenda setting and explain why some issues grain more traction than others within the same issue area.
 </details>
+
+<br />
  
 <details>
 	<summary><strong>Theory of small NGO influence</strong></summary>
@@ -31,11 +33,14 @@ Small NGOs play a critical role in global governance because their campaigns can
 The support of the issue public "locks in" an issue in the public sphere. Most issues that capture mass attention in fact disappear from public discourse after reaching a peak period, but because the attitude of the issue public is more stable than the mass public, small NGOs can leverage public attention to network with more powerful actors for an extended period of time. Typically, the larger the organizations, the better access they have to the mass public and policy makers. As small NGOs gradually gain cooperation from larger organizations, the issue begins to gain traction beyond the issue public, creating a permissive condition under which policy makers are persuaded to take action internationally.
 </details>
 
+<br />
+
 <details>
 	<summary><strong>Biodiversity and wildlife conservation</strong></summary>
 
 To date, research on NGO agenda setting has been hampered by selection bias: failed NGO campaigns or lost causes cannot be observed systematically, so case selection depends on the outcome variable itself. I overcame this methodological problem by exploiting the unique features of biodiversity conservation. In this issue area, because conservation advocacy must take place after the wild habitat of an animal is confirmed, the observation of each issue is not affected by whether it receives pubic attention or not. In short, observations are independent of the outcome variable itself. I use survey experiment, computational text analysis, regression analysis and interview-based case study to test the implications of my theory.
 </details>
+
 
 ## More on NGOs
 
@@ -44,12 +49,14 @@ To date, research on NGO agenda setting has been hampered by selection bias: fai
 
 <br />
 
-With [Elizabeth Bloodgood](https://www.concordia.ca/artsci/polisci/faculty.html?fpid=elizabeth-bloodgood) (PI),  [Wendy Wong](https://www.wendyhwong.com/) (PI), ​ [Sarah Stroup](http://sites.middlebury.edu/sarahstroup/),  [Ajah (Powered by Data)](https://poweredbydata.org/people), and a team of RAs, we are building the first-ever comprehensive dataset on NGOs across the globe: the [Global Register of Nonprofit Data Sources (GRNDS)](https://www.grnds.org/). Existing datasets, such as Yearbook of International Organizations, have a well-documented bias towards larger NGOs. To overcome this problem, we leverage national nonprofit registers for data collection, complemented by interview research with NGO practitioners. The GRNDS allows us to answer a variety of questions that we could not ask before due to data limitation: What explains the death and birth of NGOs? Why some NGOs receive national and international recognition while others do not? How do different organizational attributes affect NGO effectiveness? The project is funded by [Social Sciences and Humanities Research Council of Canada (SSHRC)](https://www.sshrc-crsh.gc.ca/results-resultats/recipients-recipiendaires/2016/insight-savoir-eng.aspx) for five years (2017-2022). 
+With <a href="https://www.concordia.ca/artsci/polisci/faculty.html?fpid=elizabeth-bloodgood">Elizabeth Bloodgood</a> (PI),  [Wendy Wong](https://www.wendyhwong.com/) (PI), ​ [Sarah Stroup](http://sites.middlebury.edu/sarahstroup/),  [Ajah (Powered by Data)](https://poweredbydata.org/people), and a team of RAs, we are building the first-ever comprehensive dataset on NGOs across the globe: the [Global Register of Nonprofit Data Sources (GRNDS)](https://www.grnds.org/). Existing datasets, such as Yearbook of International Organizations, have a well-documented bias towards larger NGOs. To overcome this problem, we leverage national nonprofit registers for data collection, complemented by interview research with NGO practitioners. The GRNDS allows us to answer a variety of questions that we could not ask before due to data limitation: What explains the death and birth of NGOs? Why some NGOs receive national and international recognition while others do not? How do different organizational attributes affect NGO effectiveness? The project is funded by [Social Sciences and Humanities Research Council of Canada (SSHRC)](https://www.sshrc-crsh.gc.ca/results-resultats/recipients-recipiendaires/2016/insight-savoir-eng.aspx) for five years (2017-2022). 
 
 <br />
 
 Our first paper analyzes "NGO data environment" – how different governments collect NGO data and report them back to the public. We follow the idea that the government has an underlying motivation for the politics of transparency and argue that NGO data environment is a concrete indicator of civil society openness. We explore domestic and international determinants of NGO data environment, using the first 22 countries in our dataset. We find that both regime type and international integration account for the variation of data environment.
 </details> 
+
+<br />
 
 <details>
 	<summary><strong>Legitimacy and authority of INGOs</strong></summary>
