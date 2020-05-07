@@ -9,4 +9,4 @@ redirect_from:
 
 Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf).
 
-Contact me at [takumi.s.com@gmail.com].
+Contact me at [takumi.s.com@gmail.com](mailto:takumi.s.com@gmail.com).
