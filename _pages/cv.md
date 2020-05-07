@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-###### <br />
+# CV
 Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf).
