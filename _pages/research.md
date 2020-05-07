@@ -45,7 +45,6 @@ With <a href="https://www.concordia.ca/artsci/polisci/faculty.html?fpid=elizabet
 
 Our first paper analyzes "NGO data environment" – how different governments collect NGO data and report them back to the public. We follow the idea that the government has an underlying motivation for the politics of transparency and argue that NGO data environment is a concrete indicator of civil society openness. We explore domestic and international determinants of NGO data environment, using the first 22 countries in our dataset. We find that both regime type and international integration account for the variation of data environment.
 </details><br>
-
 <details>
 	<summary><strong>Legitimacy and authority of INGOs</strong></summary>
 
