@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I will be joining the European University Institute, Italy, as a Max Weber Fellow in September 2020.
+I will be joining the European University Institute, Italy, as a [Max Weber Fellow](https://www.eui.eu/ServicesAndAdmin/AcademicService/Fellowships/MaxWeberFellowships) in September 2020.
 
-I am currently completing my Ph.D. in Political Science at the University of Toronto. I received an M.A. in Political Science at the University of Toronto and an LLB at Kwansei Gakuin University, Japan.
+I am currently completing my Ph.D. in [Political Science at the University of Toronto](https://politics.utoronto.ca/). I received an M.A. in Political Science at the University of Toronto and an LL.B. at K[wansei Gakuin University](https://global.kwansei.ac.jp/academics/undergraduate/school_law_politics), Japan.
 
 I seek to answer substantively important questions about global governance. Why is global governance so focused on a handful of issues while neglecting others that appear equally, if not more, urgent. Existing research has overwhelmingly focused on the supply of advocacy but overlooked the demand for information in a given issue area. I focus on the role of civil society in agenda setting among the public, bridging the insights of NGO research and public opinion studies.
