@@ -16,7 +16,6 @@ Global governance is increasingly "opening up" to civil society, and NGOs partic
 <br>
 In so doing, I interrogate the claim that small NGOs are “bandwagoners”  seeking to free-ride on others’ advocacy achievements. While the argument makes sense, it is often an assumption rather than an empirical claim. If they are indeed bandwagoners, why are there so many NGOs participating in global governance? I revisit the question of agenda setting and explain why some issues grain more traction than others within the same issue area.
 </details><br>
- 
 <details>
 	<summary><strong>Theory of small NGO influence</strong></summary>
 
