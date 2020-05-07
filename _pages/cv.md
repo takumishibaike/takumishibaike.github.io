@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-  <ul>{% for post in cv %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+Download CV [here](http://academicpages.github.io/files/shibaike_cv.pdf).
