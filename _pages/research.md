@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I ask substantively important questions about global governance and civil society. Why is global governance focused on a handful of issues while neglecting others that appear equally, if not more, urgent? Why is legitimacy so difficult to construct for the vast majority of NGOs, even though NGOs as a group category are highly trusted among the public? Do well-established, leading NGOs have different goals and missions from other NGOs? How does the data environment for civil society vary across countries in the age of closing civil society space? I use a variety of empirical methods, including survey experiment, computational text analysis, social network analysis, and in-depth interview.
+I ask substantively important questions about global governance and civil society. Why is global governance focused on a handful of issues while neglecting others that appear equally, if not more, urgent? Why is legitimacy so difficult to construct for the vast majority of NGOs, even though NGOs as a whole are highly trusted among the public? Do well-established, leading NGOs have different goals and missions from other NGOs? How does the data environment for civil society vary across countries in the age of closing civil society space? I use a variety of empirical methods, including survey experiment, computational text analysis, social network analysis, and in-depth interview.
 
 ## Dissertation
 <details>

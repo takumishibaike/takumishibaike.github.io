@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-## Philosophy
-I lead my students to discover the utility of social scientific theories and methods through the critical evaluations of real-world problems. I encourage everyone to challenge inherited assumptions about the social, political, and economic world. I am committed to creating a classroom environment where all students respect each other and embrace the diversity of perspectives.
+I lead my students to discover the utility of social scientific theories and methods through critical engagement with real-world examples and course materials. I encourage everyone to challenge inherited assumptions about the social, political, and economic world. I am committed to creating a classroom environment where all students respect each other and embrace the diversity of perspectives.
 
 ## Courses
 
