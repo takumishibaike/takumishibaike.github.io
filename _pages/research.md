@@ -25,7 +25,6 @@ Small NGOs play a critical role in global governance because their campaigns can
 <br>
 The support of the issue public "locks in" an issue in the public sphere. Most issues that capture mass attention in fact disappear from public discourse after reaching a peak period, but because the attitude of the issue public is more stable than the mass public, small NGOs can leverage public attention to network with more powerful actors for an extended period of time. Typically, the larger the organizations, the better access they have to the mass public and policy makers. As small NGOs gradually gain cooperation from larger organizations, the issue begins to gain traction beyond the issue public, creating a permissive condition under which policy makers are persuaded to take action internationally.
 </details><br>
-
 <details>
 	<summary><strong>Biodiversity and wildlife conservation</strong></summary>
 
