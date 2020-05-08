@@ -11,7 +11,7 @@ Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf).
 
 Contact me at [takumi.s.com@gmail.com](mailto:takumi.s.com@gmail.com).
 
-# Address
+## Address
 
 3018-100 St. George St., Toronto, ON M5S 3G3 Canada
 

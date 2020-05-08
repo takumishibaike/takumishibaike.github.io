@@ -20,7 +20,9 @@ I lead my students to discover the utility of social scientific theories and met
 
 ## Office Hours
 
-Monday 4:00 PM to 5:00 PM at SS3037. Please make an appointment [here](https://takumishibaike.youcanbook.me/) if you do not want to wait in line (which could happen during busy seasons).​ I make additional office hours before paper deadlines and exams.
+Monday 4:00 PM to 5:00 PM at SS3037. Please make an appointment below if you do not want to wait in line (which could happen during busy seasons).​ I make additional hours before paper deadlines and exams.
+
+<iframe src="https://takumishibaike.youcanbook.me/?noframe=true&skipHeaderFooter=true" id="ycbmiframetakumishibaike" style="width:100%;height:1000px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true"></iframe><script>window.addEventListener && window.addEventListener("message", function(event){if (event.origin === "https://takumishibaike.youcanbook.me"){document.getElementById("ycbmiframetakumishibaike").style.height = event.data + "px";}}, false);</script>
 ​
 ## Tutorial Materials
 
