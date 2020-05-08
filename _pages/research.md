@@ -57,6 +57,5 @@ We also explore the agency of INGOs by looking at their networking behavior - on
 <details>
 	<summary><strong>Conservation as public good provision</strong></summary>
 
-<br>
 Conservation is traditionally about the management of common pooled resources. However, certain species are managed in the way that is closer to how public goods are provided in a society. With <a href="https://carleton.ca/sppa/people/auld-graeme/">Graeme Auld</a>, we conceptualize the shift between different kinds of goods in the context of conservation and illuminates the problem that emerges from changes in our ideas about species conservation.<br><br>
 </details>
