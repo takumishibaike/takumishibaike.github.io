@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 
-Thank you for visiting my academic website.
+Thank you for visiting my academic website!
 
 I will be joining the European University Institute, Italy, as a [Max Weber Fellow](https://www.eui.eu/ServicesAndAdmin/AcademicService/Fellowships/MaxWeberFellowships) in September 2020.
 
 I am currently completing my Ph.D. in Political Science at the [University of Toronto](https://politics.utoronto.ca/). I received an M.A. in Political Science at the University of Toronto and an LL.B. at [Kwansei Gakuin University](https://global.kwansei.ac.jp/academics/undergraduate/school_law_politics), Japan.
 
-I seek to answer substantively important questions about global governance with a focus on civil society. I bridge the theoretical insights of NGO, public opinion, and social movement research, situating my research at the nexus of international relations and comparative politics, more broadly. To empirically evaluate my arguments, I use mixed-methods, including survey experiment, computational text analysis, social network analysis, and in-depth interview.
+I seek to answer substantively important questions about global governance with a focus on civil society. My research bridges the theoretical insights of NGO, public opinion, and social movement research, contributing to the discussions of international relations and comparative politics, more broadly. To empirically evaluate my arguments, I use mixed-methods, including survey experiment, computational text analysis, social network analysis, and in-depth interview.
 
 I am new to Github and planning on adding more stuff along the way.
