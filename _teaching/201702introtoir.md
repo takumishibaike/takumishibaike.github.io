@@ -1,8 +1,11 @@
 ---
-title: "2017 Winter POL208"
+layout: archive
+title: "2017 Winter POL208: Intro to IR"
 permalink: /teaching/201702introtoir
 author_profile: true
 ---
+
+I post the materials we used in our tutorial.
 
 ## Tutorial Materials
 
