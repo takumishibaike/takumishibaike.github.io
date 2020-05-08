@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: ""
+title: "About"
 author_profile: true
 redirect_from:
-  - /takumishibaike.weebly.com
   - /about/
   - /about.html
 ---
 
-# Welcome to my academic website
+
+Thank you for visiting my academic website.
 
 I will be joining the European University Institute, Italy, as a [Max Weber Fellow](https://www.eui.eu/ServicesAndAdmin/AcademicService/Fellowships/MaxWeberFellowships) in September 2020.
 
