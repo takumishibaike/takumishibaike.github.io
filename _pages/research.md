@@ -7,14 +7,14 @@ author_profile: true
 
 I seek to answer substantively important questions about global governance and civil society. 
 <ul>
-  <li>Why is global governance focused on a handful of issues while neglecting others that appear equally, if not more, urgent?</li>
-  <li>Why is legitimacy so difficult to construct for the vast majority of NGOs, even though NGOs as a whole are highly trusted?</li>
-  <li>Do well-established, leading NGOs have different goals and missions from other NGOs?</li>
-  <li>How does the data environment for civil society vary across countries in the age of closing civil society space?</li>
-  <li>How does conservation governance define and redefine resources and public goods?</li>
-</ul> 
-To answer these questions, I construct eclectic theories by drawing on the insights of global governance, transnational advocacy, public opinion, and social movement. <br>
-I use a variety of empirical methods, including survey experiment, computational text analysis, social network analysis, and in-depth interview.
+  <li>What is the role of NGOs in global governance?</li>
+  <li>Why does global governance focus on some issues over others?</li>
+  <li>What explains the different levels of legitimacy among NGOs?</li>
+  <li>Why does NGO data environment vary across countries?</li>
+  <li>How does conservation advocacy change the meaning of "resources"?</li>
+ </ul>
+
+To answer these questions, I construct eclectic theories by drawing on the insights of global governance, transnational advocacy, public opinion, and social movement. I use a variety of empirical methods, including survey experiment, computational text analysis, social network analysis, and in-depth interview.
 
 ## Dissertation
 <details>
