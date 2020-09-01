@@ -10,7 +10,7 @@ redirect_from:
 
 Thank you for visiting my academic website!
 
-I will be joining the European University Institute, Italy, as a [Max Weber Fellow](https://www.eui.eu/ServicesAndAdmin/AcademicService/Fellowships/MaxWeberFellowships) in September 2020.
+I am a [Max Weber Fellow](https://www.eui.eu/ServicesAndAdmin/AcademicService/Fellowships/MaxWeberFellowships) the European University Institute, Italy.
 
 I am currently completing my Ph.D. in Political Science at the [University of Toronto](https://politics.utoronto.ca/). I hold an M.A. in Political Science from the University of Toronto and an LL.B. from [Kwansei Gakuin University](https://global.kwansei.ac.jp/academics/undergraduate/school_law_politics), Japan.
 
