@@ -11,6 +11,8 @@ Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf).
 
 Contact me at [takumi.s.com@gmail.com](mailto:takumi.s.com@gmail.com).
 
+My EUI page is [here](https://www.eui.eu/ProgrammesAndFellowships/MaxWeberProgramme/People/MaxWeberFellows/Fellows-2020-2021/SHIBAIKE-Takumi).
+
 ## Mailing Address
 
 European University Institute<br>
