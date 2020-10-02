@@ -7,20 +7,20 @@ author_profile: true
 
 I seek to answer substantively important questions about global governance and civil society. 
 <ul>
-  <li>What is the role of NGOs in global governance?</li>
+  <li>What is the role of NGOs in global environmental governance?</li>
   <li>Why does global governance focus on some issues over others?</li>
   <li>What explains the different levels of legitimacy among NGOs?</li>
   <li>Why does NGO data environment vary across countries?</li>
   <li>How does conservation advocacy change the meaning of "resources"?</li>
  </ul>
 
-To answer these questions, I construct eclectic theories by drawing on the insights of global governance, transnational advocacy, public opinion, and social movement. I use a variety of empirical methods, including survey experiment, computational text analysis, social network analysis, and in-depth interview.
+To answer these questions, I develop eclectic theories by drawing on the insights of global governance, transnational advocacy, public opinion research. I use a variety of empirical methods, including survey experiments, computational text analysis, social network analysis, and in-depth interviews.
 
 ## Dissertation
 <details>
 	<summary><strong>NGOs in global governance</strong></summary>
 
-Global governance is increasingly "opening up" to civil society, and NGOs participate in various stages of governance, such as agenda setting, rule making, and policy implementation. However, the study of NGO in global context has predominantly focused on well-recognized, “leading” NGOs. Even though small NGOs comprise the vast majority of NGO population, we know little about their role in global governance. What do they do? How should we make sense of them? I collect data on NGOs cross-nationally and investigate their effect on global governane outcomes.<br>
+Global governance is increasingly "opening up" to civil society, and NGOs participate in various stages of governance, such as agenda setting, rule making, and policy implementation. However, the study of NGO in the global context has predominantly focused on well-recognized, “leading” NGOs. Even though small NGOs comprise the vast majority of NGO population, we know little about their role in global governance. What do they do? How should we make sense of them? I collect data on NGOs cross-nationally and investigate their effect on global governance outcomes.<br>
 <br>
 In so doing, I interrogate the claim that small NGOs are "bandwagoners" seeking to free-ride on others' advocacy achievements. While the argument makes sense, it is often an assumption rather than an empirical claim. If they are indeed bandwagoners, why are there so many NGOs participating in global governance? I revisit the question of agenda setting and explain why some issues grain more traction than others within the same issue area.<br>
 <br>
