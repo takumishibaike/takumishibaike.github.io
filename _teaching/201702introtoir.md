@@ -5,7 +5,7 @@ permalink: /teaching/201702introtoir
 author_profile: true
 ---
 
-- [Tutorial Note](https://www.dropbox.com/s/gq3fv93j5vwzvzn/tutorial_winter.pdf?dl=0)
+- [Tutorial Note](http://takumishibaike.github.io/files/pol208/tutorial_winter.pdf)
 
-- ​Mini-Quiz: [Week 14](https://www.dropbox.com/s/sgpencooxoxz144/week14.pdf?dl=0), [Week 15](https://www.dropbox.com/s/1bw9i474ynqp2jz/week15.pdf?dl=0), [Week 16](https://www.dropbox.com/s/fh436ah1nmsgoii/week16.pdf?dl=0), [Week 17](https://www.dropbox.com/s/qpgqomx4gwyfdqa/week17.pdf?dl=0), [Week 19](https://www.dropbox.com/s/vr136m7o4uz7xqe/week19.pdf?dl=0), [Week 20](https://www.dropbox.com/s/9e78cbx52y0by0y/week20.pdf?dl=0), [Week 21](https://www.dropbox.com/s/9rjhzwzywg7qhm8/week21.pdf?dl=0), [Week 22](https://www.dropbox.com/s/2vbq44rr4a042xq/week22.pdf?dl=0)
+- ​Mini-Quiz: [Week 14](http://takumishibaike.github.io/files/pol208/week14.pdf?dl=0), [Week 15](http://takumishibaike.github.io/files/pol208/week15.pdf), [Week 16](http://takumishibaike.github.io/files/pol208/week16.pdf), [Week 17](http://takumishibaike.github.io/files/pol208/week17.pdf), [Week 19](http://takumishibaike.github.io/files/pol208/week19.pdf), [Week 20](http://takumishibaike.github.io/files/pol208/week20.pdf), [Week 21](http://takumishibaike.github.io/files/pol208/week21.pdf), [Week 22](http://takumishibaike.github.io/files/pol208/week22.pdf)
 ​
