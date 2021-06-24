@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+## Publication
+
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-
-## Publication
 
 <a href="http://takumishibaike.github.io/files/shibaike_gep2021.pdf">Small NGOs and Agenda-setting in Global Conservation Governance: The Case of Pangolin Conservation</a>. <i>Global Environmental Politics</i>. (forthcoming).
 
