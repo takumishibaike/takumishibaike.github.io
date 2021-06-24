@@ -5,6 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 
 ## Publication
 
@@ -44,22 +60,3 @@ Our first paper analyzes "NGO data environment" – how different governments co
 With <a href="https://www.wendyhwong.com/">Wendy Wong</a>, <a href="http://sites.middlebury.edu/sarahstroup/">Sarah Stroup</a>, and Alfred Oduro, we analyze how the authority of NGOs affects the ways in which they communicate with broader audiences. We identify five dimensions of legitimacy – ​effectiveness, representativeness, accountability, morality/principle, legality – and hand-coded "legitimacy claims" in the mission statements of more than 60 NGOs, both leading and small. We find that leading NGOs make legitimacy claims differently from small NGOs. More concretely, leading NGOs are more concerned about accountability (and less so about morality/principle) and small NGOs are more concerned about representativeness.<br>
 <br>
 We also explore the agency of INGOs by looking at their networking behavior - one important legitimation strategy. Existing research posits that legitimacy is a source of power for INGOs, but we know little about how INGOs can construct their legitimacy. Leveraging the new, transnational social movement organization dataset (1993-2013), we show that networking behavior is a strategic and costly attempt at legitimation rather than the product of functional needs or homophily. We find that networking increases legitimacy more than other organizational attributes and that it favors the already well-known rather than obscure NGOs.
-
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
