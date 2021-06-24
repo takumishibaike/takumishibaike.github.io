@@ -14,7 +14,7 @@ I lead my students to discover the utility of social scientific theories and met
 
 | Term | Course |
 | --- |  --- | 
-| 2017 Winter | [POL208: Introduction to International Relations (TA)](../takumishibaike.github.io/_teaching/201702) |
+| 2017 Winter | [POL208: Introduction to International Relations (TA)](../takumishibaike.github.io/teaching/201702/) |
 | 2016 Fall   | POL208: Introduction to International Relations (TA) |      
 
 
