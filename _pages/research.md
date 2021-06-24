@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publication
-[Small NGOs and Agenda-setting in Global Conservation Governance: The Case of Pangolin Conservation](http://takumishibaike.github.io/research/gep2021). *Global Environmental Politics*. (forthcoming).
+[Small NGOs and Agenda-setting in Global Conservation Governance: The Case of Pangolin Conservation](../takumishibaike.github.io/research/gep2021). *Global Environmental Politics*. (forthcoming).
 
 ## Working Paper
 
