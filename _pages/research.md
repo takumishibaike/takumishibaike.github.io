@@ -5,16 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-I seek to answer substantively important questions about global governance and civil society with a focus on environmental issues. 
-<ul>
-  <li>What is the role of NGOs in global environmental governance?</li>
-  <li>Why does global governance focus on some issues over others?</li>
-  <li>What explains the different levels of legitimacy among NGOs?</li>
-  <li>Why does NGO data environment vary across countries?</li>
-  <li>How does conservation advocacy change the meaning of "resources"?</li>
- </ul>
 
-To answer these questions, I bridge theoretical insights of global governance, transnational advocacy, public opinion research. I use a variety of empirical methods, including survey experiments, computational text analysis, social network analysis, and in-depth interviews.
+## Publication
+
+[Small NGOs and Agenda-setting in Global Conservation Governance: The Case of Pangolin Conservation]((http://takumishibaike.github.io/files/shibaike_gep2021.pdf). <i>Global Environmental Politics</i> (forthcoming).
+
+The study of global environmental governance suggests that agenda-setting power is concentrated on a handful of high-profile, leading nongovernmental organizations (NGOs). The recent rise of interest in pangolin conservation constitutes a deviant case in this theoretical tradition. In order to explain the puzzle, I introduce a new theory of small NGO influence and illustrate the mechanisms through the case study of pangolin conservation. Based on in-depth interviews with conservation NGOs, I show how small NGOs raised the salience of pangolin trafficking in global conservation governance by appealing to the shared values of the people who are highly interested in conservation. Moreover, the targeting of traditional Chinese medicine as the driver of pangolin extinction, while unintentionally, helped raise the salience of pangolin trafficking by leveraging the rise of anti-Chinese sentiment in the Global North. Finally, small NGOs were able to use their expertise to guide leading NGOs and state officials in rule-making processes. The findings offer a corrective to the hierarchical view of civil society, calling for more careful evaluations of small NGOs in global conservation governance.
+
 
 ## Dissertation
 
