@@ -9,29 +9,14 @@ author_profile: true
 
 ## Publication
 
-<a href="http://takumishibaike.github.io/files/shibaike_gep2021.pdf">Small NGOs and Agenda-setting in Global Conservation Governance: The Case of Pangolin Conservation</a>. <i>Global Environmental Politics</i> (forthcoming).
+<a href="http://takumishibaike.github.io/files/shibaike_gep2021.pdf">Small NGOs and Agenda-setting in Global Conservation Governance: The Case of Pangolin Conservation</a>. <i>Global Environmental Politics</i>. (forthcoming).
 
-<button type="button" class="collapsible">Abstract</button>
-<div class="content">
-  <p>The study of global environmental governance suggests that agenda-setting power is concentrated on a handful of high-profile, leading nongovernmental organizations (NGOs). The recent rise of interest in pangolin conservation constitutes a deviant case in this theoretical tradition. In order to explain the puzzle, I introduce a new theory of small NGO influence and illustrate the mechanisms through the case study of pangolin conservation. Based on in-depth interviews with conservation NGOs, I show how small NGOs raised the salience of pangolin trafficking in global conservation governance by appealing to the shared values of the people who are highly interested in conservation. Moreover, the targeting of traditional Chinese medicine as the driver of pangolin extinction, while unintentionally, helped raise the salience of pangolin trafficking by leveraging the rise of anti-Chinese sentiment in the Global North. Finally, small NGOs were able to use their expertise to guide leading NGOs and state officials in rule-making processes. The findings offer a corrective to the hierarchical view of civil society, calling for more careful evaluations of small NGOs in global conservation governance.</p>
-</div>
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
+<div class="container">
+ <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#demo">Abstract</button>
+  <div id="demo" class="collapse">
+    The study of global environmental governance suggests that agenda-setting power is concentrated on a handful of high-profile, leading nongovernmental organizations (NGOs). The recent rise of interest in pangolin conservation constitutes a deviant case in this theoretical tradition. In order to explain the puzzle, I introduce a new theory of small NGO influence and illustrate the mechanisms through the case study of pangolin conservation. Based on in-depth interviews with conservation NGOs, I show how small NGOs raised the salience of pangolin trafficking in global conservation governance by appealing to the shared values of the people who are highly interested in conservation. Moreover, the targeting of traditional Chinese medicine as the driver of pangolin extinction, while unintentionally, helped raise the salience of pangolin trafficking by leveraging the rise of anti-Chinese sentiment in the Global North. Finally, small NGOs were able to use their expertise to guide leading NGOs and state officials in rule-making processes. The findings offer a corrective to the hierarchical view of civil society, calling for more careful evaluations of small NGOs in global conservation governance.
+  </div>
+</div> 
 
 
 ## Dissertation
