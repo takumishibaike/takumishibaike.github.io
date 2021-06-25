@@ -9,6 +9,4 @@ author_profile: true
 
  This research is registered with [OSF](https://osf.io/4v9gy).
 
- I presented this work at [EPG Conference 2021](https://www.sv.uio.no/isv/english/research/news-and-events/events/2021/epg2021/).
-
  Download paper [here](http://takumishibaike.github.io/files/shibaike_epg2021.pdf).
