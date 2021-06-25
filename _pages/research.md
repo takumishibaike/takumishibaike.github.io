@@ -12,18 +12,18 @@ author_profile: true
 
 ## Working Paper
 
-[Legitimacy and legitimation strategies: Analyzing social change organizations].
+[Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/).
 
-[Understanding national nonprofit data environments]. (with Bloodgood, Elizabeth, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
+[Understanding national nonprofit data environments](../research/paper3/). (with Bloodgood, Elizabeth, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
 
-[The stories they tell: What INGO mission statements reveal about their authority]. (with Wendy Wong, Sarah Stroup, and Alfred Oduro).
+[The stories they tell: What INGO mission statements reveal about their authority](../research/paper4/). (with Wendy Wong, Sarah Stroup, and Alfred Oduro).
 
-[Laws in translation: Comparing Techniques to translate legal texts]. (with DeMattee, Anthony, Nick Gertler, and Elizabeth Bloodgood).
+[Laws in translation: Comparing Techniques to translate legal texts](../research/paper5/). (with DeMattee, Anthony, Nick Gertler, and Elizabeth Bloodgood).
 
-[Power of specialization: NGO agenda setting in the governance of biodiversity and wildlife].
+[Power of specialization: NGO agenda setting in the governance of biodiversity and wildlife](../research/paper6/).
 
-[Conservation governance: Complex relationship between the governor and the governed]. (with Graeme Auld).
+[Conservation governance: Complex relationship between the governor and the governed](../research/paper7/). (with Graeme Auld).
 
-[Legitimation of civil society at the Organisation of African Unity]. (with Alfred Oduro).
+[Climate change discourse at the UNFCCC: Frames and networks of NGOs](../research/paper8/). (with Bi Zhao).
 
-[Climate change discourse at the UNFCCC: Frames and networks of NGOs](). (with Bi Zhao).
+[Evidence of Civil Society Exclusion in the Organization of African Unity](../research/paper9/). (with Alfred Oduro).
