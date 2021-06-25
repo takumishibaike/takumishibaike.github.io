@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-I lead my students to discover the utility of social scientific theories and methods through critical engagement with real-world examples and course materials. I encourage everyone to challenge inherited assumptions about the social, political, and economic world. I am committed to creating a classroom environment where all students respect each other and embrace the diversity of perspectives.
+I lead my students to discover the usefulness of social scientific theories and methods. I encourage everyone to challenge inherited assumptions. I am committed to creating a classroom environment where all students feel safe.
 
 ## Courses
 

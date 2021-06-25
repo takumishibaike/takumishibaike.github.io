@@ -12,6 +12,8 @@ author_profile: true
 
 ## Working Paper
 
+[Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper10/).
+
 [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/).
 
 [Understanding national nonprofit data environments](../research/paper3/). (with Bloodgood, Elizabeth, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
