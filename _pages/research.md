@@ -14,6 +14,8 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 [Civil society advocacy for wildlife conservation in Vietnam](../research/paper10/).
 
+[Power of specialization: NGO agenda setting in the governance of biodiversity and wildlife](../research/paper6/).
+
 [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/).
 
 [Understanding national nonprofit data environments](../research/paper3/). (with Bloodgood, Elizabeth, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
@@ -21,8 +23,6 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 [The stories they tell: What INGO mission statements reveal about their authority](../research/paper4/). (with Wendy Wong, Sarah Stroup, and Alfred Oduro).
 
 [Laws in translation: Comparing Techniques to translate legal texts](../research/paper5/). (with DeMattee, Anthony, Nick Gertler, and Elizabeth Bloodgood).
-
-[Power of specialization: NGO agenda setting in the governance of biodiversity and wildlife](../research/paper6/).
 
 [Conservation governance: Complex relationship between the governor and the governed](../research/paper7/). (with Graeme Auld).
 
