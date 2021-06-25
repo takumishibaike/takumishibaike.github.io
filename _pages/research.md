@@ -12,7 +12,7 @@ author_profile: true
 
 ## Working Paper
 
-[Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper10/).
+[Civil society advocacy for wildlife conservation in Vietnam](../research/paper10/).
 
 [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/).
 
