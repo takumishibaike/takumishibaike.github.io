@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Small NGOs and Agenda-setting in Global Conservation Governance"
-permalink: /research/gep2021/
+title: "Small NGOs and Agenda-setting in Global Conservation Governance: The Case of Pangolin Conservation"
+permalink: /research/paper1/
 author_profile: true
 ---
 

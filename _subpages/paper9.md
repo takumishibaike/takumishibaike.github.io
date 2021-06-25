@@ -1,0 +1,8 @@
+---
+layout: archive
+title: "Evidence of Civil Society Exclusion in the Organization of African Unity"
+permalink: /research/paper9/
+author_profile: true
+---
+
+Nongovernmental organizations (NGOs) often seek affiliation with international organizations in order to maximize their influence. With the proliferation of African regional organizations in the early 1960s, one may expect that African NGOs would enhance regional activities on the continent by participating in regional organizations. However, this was not the case for the Organisation of African Unity (OAU). In this paper, we argue that the structure of the OAU impeded the growth of African NGOs. We assess the causal effect of OAU affiliation on civil society by adopting a matching method on panel data on international NGOs of African origin (1981-2001). This method allows us to devise a difference-in-difference design that controls for systemic variables and focus on the causal effect of treatment, that is, official affiliation status with the OAU. Empirical evidence supports our claim. Our findings suggest that the OAU’s inability to effectively incorporate African NGOs into its governance structure at the time contributed to its demise that eventually resulted in the formation of the African Union (AU). Our analysis characterizes one key distinction between the OAU and the AU: the former was conceived as a Union of state leaders whereas the latter a Union of peoples that sought to embrace civil society involvement.

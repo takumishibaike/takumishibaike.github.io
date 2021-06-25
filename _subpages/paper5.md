@@ -1,0 +1,8 @@
+---
+layout: archive
+title: "Laws in Translation: Comparing Techniques to Translate Legal Texts"
+permalink: /research/paper5/
+author_profile: true
+---
+
+Compared to professional translators, the benefits of computerized translations are their speed, accessibility, and cost. The risk is whether their translations are sufficiently precise for a given need. This research note assesses the options available to translate legal text for content analysis and comparative research. To do so, we evaluate three translation applications--DeepL, Google, and Microsoft--and assess each one’s ability to translate legal content from similar laws enacted by the Brazilian, Chinese, French, Japanese, and Mexican governments. We demonstrate that machine translators are reliable and effective, particularly at higher levels of generality. However, machine translators are fallible, particularly at more granular levels, and each is prone to making critical errors that may jeopardize research findings. We propose distinctive approach that combines the efficiency of machine translators with the precision of humans. We show that employing human translators to edit automated translations produces high-quality translations in one-third the time and at a fraction of the cost. This methodological contribution promises to enrich law and society research by establishing a translation protocol that is affordable, rigorous yet simple, and transparent. We conclude by proposing that scholars use this new method to effectively and efficiently prepare a multilingual legal corpus.
