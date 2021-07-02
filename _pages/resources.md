@@ -29,4 +29,4 @@ I provide links to the resources that *might* help coursework and research.
 ## Programming
 - [Basics of python](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p){:target="_blank"}
 - [ggplot cheatsheet](https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf){:target="_blank"}
-- [ggplot2 colors](http://www.cookbook-r.com/Graphs/Colors_(ggplot2){:target="_blank"}
+- [ggplot2 colors](http://www.cookbook-r.com/Graphs/Colors_(ggplot2)){:target="_blank"}
