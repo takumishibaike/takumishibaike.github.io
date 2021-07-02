@@ -9,7 +9,7 @@ redirect_from:
 I provide links to the resources that *might* help coursework and research.
 
 ## Key Concepts in Political Science (very broadly)
-- [Prisoner's Dilemma](https://www.youtube.com/watch?v=p3Uos2fzIJ0): Why is "defect" the dominant strategy?
+- [Prisoner's Dilemma](https://www.youtube.com/watch?v=7FbkwrhW_0I): Why is "defect" the dominant strategy?
 - [Trust and Game Theory](http://ncase.me/trust/): How can we overcome the prisoner's dilemma?
 - [Segregation](http://ncase.me/polygons/): How does segregation happen?
 - [Zipf's Law in Natural Language](https://youtu.be/fCn8zs912OE): Which word appears most frequently?
