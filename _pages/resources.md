@@ -8,7 +8,7 @@ redirect_from:
 
 I provide links to the resources that *might* help coursework and research.
 
-## Key Concepts in Political Science (very broadly)
+## PoliSci stuff (very broadly)
 - [Prisoner's Dilemma](https://www.youtube.com/watch?v=7FbkwrhW_0I){:target="_blank"}: Why is "defect" the dominant strategy?
 - [Trust and Game Theory](http://ncase.me/trust/){:target="_blank"}: How can we overcome the prisoner's dilemma?
 - [Segregation](http://ncase.me/polygons/){:target="_blank"}: How does segregation happen?
