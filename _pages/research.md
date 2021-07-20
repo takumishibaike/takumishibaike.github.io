@@ -22,7 +22,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 [The stories they tell: What INGO mission statements reveal about their authority](../research/paper4/). (with Wendy Wong, Sarah Stroup, and Alfred Oduro).
 
-[Laws in translation: Comparing Techniques to translate legal texts](../research/paper5/). (withAnthony DeMattee, Nick Gertler, and Elizabeth Bloodgood).
+[Laws in translation: Comparing Techniques to translate legal texts](../research/paper5/). (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood).
 
 [Conservation governance: Complex relationship between the governor and the governed](../research/paper7/). (with Graeme Auld).
 
