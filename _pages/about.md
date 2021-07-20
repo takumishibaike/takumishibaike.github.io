@@ -10,7 +10,7 @@ redirect_from:
 
 Thank you for visiting my website!
 
-I am a Postdoctoral Associate in the School of Public Policy at the University of Calgary. My research examines how nongovernmental organizations (NGOs) shape our understanding of “important” issues in global governance. I am particularly interested in the strategies of small NGOs to survive and be influential in the governance of biodiversity and climate change. In my empirical research, I use mixed-methods, including survey experiments, computational text analysis, social network analysis, and in-depth interviews.
+I am a Postdoctoral Associate in the School of Public Policy at the University of Calgary. My research examines how nongovernmental organizations (NGOs) shape our understanding of “important” issues in global governance. I am particularly interested in the strategies of small NGOs to survive and be influential in the governance of biodiversity and climate change. In my empirical research, I use mixed-methods, including survey experiments, computational text analysis (machine learning), social network analysis, and in-depth interviews.
 
 My other interests include civil society participation in intergovernmental organizations, the informational environments of NGOs in democratic and non-democratic countries, and the different understanding of “conservation” among the public. My teaching interests are in the areas of international relations, environmental governance, and empirical methodologies in political science.
 
