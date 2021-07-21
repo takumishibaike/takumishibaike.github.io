@@ -10,6 +10,12 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ## Courses
 
+### University of British Columbia, Okanagan
+
+| Term | Course |
+| --- |  --- | 
+| 2022 Winter | POLI354: International Organizations |
+   
 ### University of Toronto
 
 | Term | Course |
