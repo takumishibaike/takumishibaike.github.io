@@ -8,7 +8,7 @@ author_profile: true
 My research focuses on the role of nongovernmental organizations (NGOs) in global governance. I am especially interested in the role of small NGOs in global environmental governance. Please feel free to contact me if you have any questions or comments on my work.
 
 ## Publications
-Forthcoming. [Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation](../research/paper1/). *Global Environmental Politics*.
+Forthcoming. [Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation](../research/paper1/). *Global Environmental Politics*. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623)
 
 Forthcoming. [The stories they tell: What INGO mission statements reveal about their authority](../research/paper4/). *Global Society*. (with Wendy Wong, Sarah Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516).
 
