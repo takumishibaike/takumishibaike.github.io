@@ -14,7 +14,7 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 | Term | Course |
 | --- |  --- | 
-| 2022 Winter | POLI354: International Organizations |
+| 2022 Winter | [POLI354: International Organizations](../teaching/202201/) |
    
 ### University of Toronto
 
@@ -26,4 +26,4 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ## Office Hours
 
-Monday 4:00 PM to 5:00 PM at SS3037. Please make an appointment [here](https://takumishibaike.youcanbook.me/) if you do not want to wait in line (which could happen during busy seasons). I make additional hours before paper deadlines and exams.
+Please make an appointment [here](https://takumishibaike.youcanbook.me/). I make additional hours before deadlines.
