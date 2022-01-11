@@ -26,4 +26,4 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ## Office Hours
 
-Please make an appointment [here](https://takumishibaike.youcanbook.me/). I make additional hours before deadlines.
+Wednesday 2:00-4:00 PM (Pacific Time). Please make an appointment [here](https://takumishibaike.youcanbook.me/). I make additional hours before deadlines.
