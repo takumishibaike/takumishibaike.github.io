@@ -32,6 +32,6 @@ forthcoming\. [Legitimacy and legitimation strategies: Analyzing social change o
 
 ## Non-referred Publications
 
-2019\. [For Academic Collaboration (in Japanese)](https://takumishibaike.github.io/files/shibaike_janporanews.pdf) *Japan NPO Research Association Newsletter* 
+2019\. [Towards academic collaboration (in Japanese)](https://takumishibaike.github.io/files/shibaike_janporanews.pdf) *Japan NPO Research Association Newsletter* 
 
 2015\. [Human rights in G7](https://takumishibaike.github.io/files/shibaike_lexis.pdf) *Lexis&reg;PSL Public Law*
