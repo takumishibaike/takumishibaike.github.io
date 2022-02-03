@@ -12,7 +12,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 2021\. [The stories they tell: What INGO mission statements reveal about their authority](../research/paper4/). *Global Society*. (with Wendy Wong, Sarah Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
-forthcoming\. [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/). *Complexity, Governance, \& Netowrks*.
+forthcoming\. [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/). *Complexity, Governance & Networks*.
 
 ## Working Papers
 
