@@ -12,13 +12,13 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 2021\. [The stories they tell: What INGO mission statements reveal about their authority](../research/paper4/). *Global Society*. (with Wendy Wong, Sarah Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
+forthcoming\. [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/). *Complexity, Governance, \& Netowrks*.
+
 ## Working Papers
 
 [Civil society advocacy for wildlife conservation in Vietnam](../research/paper10/).
 
 [Power of specialization: NGO agenda setting in the governance of biodiversity and wildlife](../research/paper6/).
-
-[Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/).
 
 [Understanding national nonprofit data environments](../research/paper3/). (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
 
