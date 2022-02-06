@@ -8,6 +8,9 @@ author_profile: true
 My research focuses on the role of nongovernmental organizations (NGOs) in global governance. I am especially interested in the role of small NGOs in global environmental governance. Please feel free to contact me if you have any questions or comments on my work.
 
 ## Referred Publications
+
+forthcoming\. [Understanding national nonprofit data environments](../research/paper3/). *Nonprofit and Voluntary Sector Quarterly* (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
+
 forthcoming\. [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/). *Complexity, Governance & Networks*.
 
 2021\. [Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation](../research/paper1/). *Global Environmental Politics*. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
@@ -19,8 +22,6 @@ forthcoming\. [Legitimacy and legitimation strategies: Analyzing social change o
 [Civil society advocacy for wildlife conservation in Vietnam](../research/paper10/).
 
 [Power of specialization: NGO agenda setting in the governance of biodiversity and wildlife](../research/paper6/).
-
-[Understanding national nonprofit data environments](../research/paper3/). (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
 
 [Laws in translation: Comparing Techniques to translate legal texts](../research/paper5/). (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood).
 
