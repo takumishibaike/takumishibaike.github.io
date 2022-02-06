@@ -9,7 +9,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 ## Referred Publications
 
-forthcoming\. [Understanding national nonprofit data environments](../research/paper3/). *Nonprofit and Voluntary Sector Quarterly* (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
+forthcoming\. [Understanding national nonprofit data environments](../research/paper3/). *Nonprofit and Voluntary Sector Quarterly*. (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
 
 forthcoming\. [Legitimacy and legitimation strategies: Analyzing social change organizations](../research/paper2/). *Complexity, Governance & Networks*.
 
