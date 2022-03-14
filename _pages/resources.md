@@ -17,7 +17,8 @@ I provide links to the resources that *might* help coursework and research.
 - [Social Contract](https://www.youtube.com/watch?v=ttu8va9_x1g){:target="_blank"}: How do we escape "the state of nature"?
 - [Moral Foundations](https://www.ted.com/talks/jonathan_haidt_on_the_moral_mind){:target="_blank"}: Where does morality come from?
 - [Trolly Problem](https://www.youtube.com/watch?v=-N_RZJUAQY4){:target="_blank"}: Also, [this](http://i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png){:target="_blank"}.
-- [Theorizing](http://www.theory-talks.org/p/keywords.html){:target="_blank"}: How did people come up with a theory?
+- [Utilitarianism](https://existentialcomics.com/comic/426){:target="_blank"}: How should we maximize social welfare?
+- [Theorizing](http://www.theory-talks.org/p/keywords.html){:target="_blank"}: How did scholars come up with a theory?
 - [Hierarchical Modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}: Visual, intuitive explanation for what hierarchical modeling is.
 - [Scientific Progress](https://plato.stanford.edu/entries/scientific-progress/){:target="_blank"}: What is "scientific progress"?
 
