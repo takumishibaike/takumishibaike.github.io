@@ -11,6 +11,7 @@ I provide links to the resources that *might* help coursework and research.
 ## PoliSci stuff (very broadly)
 - [Prisoner's Dilemma](https://www.youtube.com/watch?v=7FbkwrhW_0I){:target="_blank"}: Why is "defect" the dominant strategy?
 - [Trust and Game Theory](http://ncase.me/trust/){:target="_blank"}: How can we overcome the prisoner's dilemma?
+- [Survival Bias](https://xkcd.com/1827/){:target="_blank"}: Is it a good idea to drop out of college and start up a new company like Steve Jobs, Bill Gates, and Mark Zuckerberg did?
 - [Segregation](http://ncase.me/polygons/){:target="_blank"}: How does segregation happen?
 - [Zipf's Law in Natural Language](https://youtu.be/fCn8zs912OE){:target="_blank"}: Which word appears most frequently?
 - [WEIRD](https://blogs.scientificamerican.com/primate-diaries/the-weird-evolution-of-human-psychology){:target="_blank"}: Are we all weird?
