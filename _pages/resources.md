@@ -11,7 +11,6 @@ I provide links to the resources that *might* help coursework and research.
 ## PoliSci stuff (very broadly)
 - [Prisoner's Dilemma](https://www.youtube.com/watch?v=7FbkwrhW_0I){:target="_blank"}: Why is "defect" the dominant strategy?
 - [Trust and Game Theory](http://ncase.me/trust/){:target="_blank"}: How can we overcome the prisoner's dilemma?
-- [Survival Bias](https://xkcd.com/1827/){:target="_blank"}: Is it a good idea to drop out of college and start up a new company?
 - [Segregation](http://ncase.me/polygons/){:target="_blank"}: How does segregation happen?
 - [Zipf's Law in Natural Language](https://youtu.be/fCn8zs912OE){:target="_blank"}: Which word appears most frequently?
 - [WEIRD](https://blogs.scientificamerican.com/primate-diaries/the-weird-evolution-of-human-psychology){:target="_blank"}: Are we all weird?
@@ -22,6 +21,7 @@ I provide links to the resources that *might* help coursework and research.
 - [Theorizing](http://www.theory-talks.org/p/keywords.html){:target="_blank"}: How did scholars come up with a theory?
 - [Hierarchical Modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}: Visual, intuitive explanation for what hierarchical modeling is.
 - [Scientific Progress](https://plato.stanford.edu/entries/scientific-progress/){:target="_blank"}: What is "scientific progress"?
+- [Survival Bias](https://xkcd.com/1827/){:target="_blank"}: Want to drop out of college and start up a new company like Bill Gates, Steve Jobs, and Mark Zuckerberg? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
 
 ## Writing
 - [How to not plagiarize](http://advice.writing.utoronto.ca/using-sources/how-not-to-plagiarize/){:target="_blank"}
