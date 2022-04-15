@@ -15,7 +15,7 @@ forthcoming\. [Understanding national nonprofit data environments](../research/p
 
 2022\. Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation. *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
 
-2021\. [The stories they tell: What INGO mission statements reveal about their authority](../research/paper4/). *Global Society*. (with Wendy Wong, Sarah Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
+2021\. The stories they tell: What INGO mission statements reveal about their authority. *Global Society*. (with Wendy Wong, Sarah Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
 ## Working Papers
 
