@@ -11,7 +11,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 forthcoming\. [Understanding national nonprofit data environments](../research/paper3/). *Nonprofit and Voluntary Sector Quarterly*. (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong).
 
-2022\. Legitimacy and legitimation strategies: Analyzing social change organizations. *Complexity, Governance & Networks, 8*(1): 1--24. [https://doi.org/10.20377/cgn-114](https://ubp.uni-bamberg.de/ojs/index.php/cgn/article/view/114){:target="_blank"}.
+2022\. Legitimacy and legitimation strategies: Analyzing social change organizations. *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://ubp.uni-bamberg.de/ojs/index.php/cgn/article/view/114){:target="_blank"}.
 
 2022\. Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation. *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
 
