@@ -9,6 +9,8 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 ## Referred Publications
 
+forthcoming\. [Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts](../research/paper5/). *Qualitative and Multi-Method Research* (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood).
+
 2022\. Understanding national nonprofit data environments. *Nonprofit and Voluntary Sector Quarterly*. (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}. 
 
 2022\. Legitimacy and legitimation practices: Analyzing social change organizations. *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://ubp.uni-bamberg.de/ojs/index.php/cgn/article/view/114){:target="_blank"}.
@@ -22,8 +24,6 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 [Civil society advocacy for wildlife conservation in Vietnam](../research/paper10/).
 
 [Power of specialization: NGO agenda setting in the governance of biodiversity and wildlife](../research/paper6/).
-
-[Laws in translation: Comparing Techniques to translate legal texts](../research/paper5/). (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood).
 
 [Conservation governance: Complex relationship between the governor and the governed](../research/paper7/). (with Graeme Auld).
 
