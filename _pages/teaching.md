@@ -15,6 +15,8 @@ I encourange my students to discover the usefulness of social scientific theorie
 | Term | Course |
 | --- |  --- | 
 | 2022 Fall (Session 2) | [POLSCI 101](../teaching/202202/): International Politics |
+| 2023 Spring (Session 4) | POLSCI 101: International Politics |
+
 
 ### University of British Columbia, Okanagan
 
