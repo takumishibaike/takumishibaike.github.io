@@ -10,18 +10,19 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ## Courses
 
+### Duke Kunshan University
+
+| Term | Course |
+| --- |  --- | 
+| 2022 Fall (Session 2) | [POLI 101: International Politics](../teaching/202202/) |
+
 ### University of British Columbia, Okanagan
 
 | Term | Course |
 | --- |  --- | 
-| 2022 Winter | [POLI354: International Organizations](../teaching/202201/) |
+| 2022 Winter | [POLI 354: International Organizations](../teaching/202201/) |
    
-### University of Toronto
 
-| Term | Course |
-| --- |  --- | 
-| 2017 Winter | [POL208: Introduction to International Relations (TA)](../teaching/201702/) |
-| 2016 Fall   | POL208: Introduction to International Relations (TA) |      
 
 
 ## Office Hours
