@@ -9,13 +9,12 @@ redirect_from:
 
 Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf).
 
-Contact me at [takumi.shibaike@ucalgary.ca](mailto:takumi.shibaike@ucalgary.ca).
+Contact me at [takumi.shibaike@duke.edu](mailto:takumi.shibaike@duke.edu).
 
 ## Mailing Address
 
-The School of Public Policy<br>
-University of Calgary Downtown Campus<br>
-906 8th Avenue S.W., 5th Floor<br>
-Calgary, AB T2P 1H9 Canada<br>
+Duke Kunshan University<br>
+No. 8 Duke Avenue, Kunshan, Jiangsu Province, China 215316<br>
+中国江苏省昆山市杜克大道8号 邮编: 215316<br>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2508.3630882139214!2d-114.08422938402141!3d51.04638317956203!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53716fe6b9955555%3A0x20fa35f58340305c!2sThe%20School%20of%20Public%20Policy!5e0!3m2!1sen!2sca!4v1625257656734!5m2!1sen!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13619.731128395748!2d120.9014167!3d31.415978!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe36db24432e497d9!2sDuke%20Kunshan%20University!5e0!3m2!1sen!2sjp!4v1662085099567!5m2!1sen!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
