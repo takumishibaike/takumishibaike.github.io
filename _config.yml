@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Takumi Shibaike"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Associate"
-  location         : "Calgary/Toronto"
-  employer         : "University of Calgary"
+  bio              : "Assistant Professor"
+  location         : "Kunshan/Toronto"
+  employer         : "Duke Kunshan University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1L6YT08AAAAJ"
   email            : "takumi.shibaike@ucalgary.ca"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.policyschool.ca/our-member-category/research/postdoctoral-scholars/"
+  uri              : "https://faculty.dukekunshan.edu.cn/faculty_profiles/shibaike-takumi/"
   bitbucket        :
   codepen          :
   dribbble         :
