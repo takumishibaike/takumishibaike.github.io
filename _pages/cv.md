@@ -14,6 +14,7 @@ Contact me at [takumi.shibaike@duke.edu](mailto:takumi.shibaike@duke.edu).
 ## Mailing Address
 
 Duke Kunshan University<br>
+昆山杜克大学<br>
 No. 8 Duke Avenue, Kunshan, Jiangsu Province, China 215316<br>
 中国江苏省昆山市杜克大道8号 邮编: 215316<br>
 
