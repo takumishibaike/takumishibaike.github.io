@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Climate change discourse at the UNFCCC: Frames and networks of NGOs"
+title: "Climate change discourse at the UNFCCC"
 permalink: /research/paper8/
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Laws in Translation: Comparing Techniques to Translate Legal Texts"
+title: "Laws in Translation"
 permalink: /research/paper5/
 author_profile: true
 ---

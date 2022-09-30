@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Legitimacy and legitimation strategies: Analyzing social change organizations"
+title: "Legitimacy and legitimation strategies"
 permalink: /research/paper2/
 author_profile: true
 ---

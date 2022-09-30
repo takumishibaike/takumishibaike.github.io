@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Power of Specialization: NGO Advocacy in Global Conservation Governance"
+title: "The Power of Specialization"
 permalink: /research/paper6/
 author_profile: true
 ---

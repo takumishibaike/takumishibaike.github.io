@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conservation governance: Complex relationship between the governor and the governed"
+title: "Conservation governance"
 permalink: /research/paper7/
 author_profile: true
 ---

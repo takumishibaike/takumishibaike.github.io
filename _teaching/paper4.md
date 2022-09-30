@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Stories They Tell: What INGO Mission Statements Reveal about their Authority"
+title: "The Stories They Tell"
 permalink: /research/paper4/
 author_profile: true
 ---
