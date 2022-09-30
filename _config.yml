@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Takumi Shibaike"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor of International Relations"
   location         : "Kunshan/Toronto"
   employer         : "Duke Kunshan University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "TakumiShibaike"
   vine             :
   weibo            :
   xing             :
