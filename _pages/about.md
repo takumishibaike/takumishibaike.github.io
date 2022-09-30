@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Thank you for visiting my website!
+Thank you for visiting my website! This is where you can find the most up-to-date information about my research and teaching. 
 
 I am an Assistant Professor of International Relations at Duke Kunshan University. My research examines how nongovernmental organizations (NGOs) shape our understanding of "important" issues in global governance. I am particularly interested in the strategies of small NGOs to survive and be influential in the governance of biodiversity and climate change. In my empirical research, I use mixed-methods, including survey experiments, computational text analysis (machine learning), social network analysis, and in-depth interviews.
 
