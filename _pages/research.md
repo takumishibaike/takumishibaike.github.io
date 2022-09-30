@@ -9,7 +9,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 ## Referred Publications
 
-conditional acceptance\. ["The Power of Specialization: NGO Advocacy in Global Conservation Governance."](../research/paper6/). *International Studies Quarterly*.
+conditional acceptance\. ["The Power of Specialization: NGO Advocacy in Global Conservation Governance."](../research/paper6/) *International Studies Quarterly*.
 
 forthcoming\. ["Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts."](../research/paper5/) *Qualitative and Multi-Method Research*. (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood).
 
@@ -23,13 +23,13 @@ forthcoming\. ["Overcoming the laws-in-translation problem: Comparing techniques
 
 ## Working Papers
 
-["Civil society advocacy for wildlife conservation in Vietnam"](../research/paper10/).
+["Civil society advocacy for wildlife conservation in Vietnam."](../research/paper10/)
 
-["Conservation governance: Complex relationship between the governor and the governed"](../research/paper7/). (with Graeme Auld).
+["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
 
-["Climate change discourse at the UNFCCC: Frames and networks of NGOs"](../research/paper8/). (with Bi Zhao).
+["Climate change discourse at the UNFCCC: Frames and networks of NGOs."](../research/paper8/) (with Bi Zhao).
 
-["Evidence of Civil Society Exclusion in the Organization of African Unity"](../research/paper9/). (with Alfred Oduro).
+["Evidence of Civil Society Exclusion in the Organization of African Unity."](../research/paper9/) (with Alfred Oduro).
 
 ## Non-referred Publications
 
