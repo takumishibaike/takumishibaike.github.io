@@ -9,7 +9,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 ## Referred Publications
 
-conditional acceptance\. ["The Power of Specialization: NGO Advocacy in Global Conservation Governance."](../research/paper6/) *International Studies Quarterly*.
+forthcoming\. ["The Power of Specialization: NGO Advocacy in Global Conservation Governance."](../research/paper6/) *International Studies Quarterly*.
 
 forthcoming\. ["Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts."](../research/paper5/) *Qualitative and Multi-Method Research*. (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood).
 
