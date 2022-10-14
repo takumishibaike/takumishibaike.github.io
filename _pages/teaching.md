@@ -15,8 +15,8 @@ I encourange my students to discover the usefulness of social scientific theorie
 | Term | Course |
 | --- |  --- | 
 | 2022 Fall (Session 2) | [POLSCI 101](../teaching/polsci101_202202/): International Politics |
-| 2023 Spring (Session 4) | POLSCI 101: International Politics |
-| 2023 Spring (Session 4) | [POLSCI 309](../teaching/202304/): Networks in a Globalizing World |
+| 2023 Spring (Session 4) | [POLSCI 101](../teaching/polsci101_202304/): International Politics |
+| 2023 Spring (Session 4) | [POLSCI 309](../teaching/polsci309_202304/): Networks in a Globalizing World |
 
 
 ### University of British Columbia, Okanagan
