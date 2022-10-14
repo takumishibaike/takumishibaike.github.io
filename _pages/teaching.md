@@ -14,7 +14,7 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 | Term | Course |
 | --- |  --- | 
-| 2022 Fall (Session 2) | [POLSCI 101](../teaching/202202/): International Politics |
+| 2022 Fall (Session 2) | [POLSCI 101](../teaching/polsci101_202202/): International Politics |
 | 2023 Spring (Session 4) | POLSCI 101: International Politics |
 | 2023 Spring (Session 4) | [POLSCI 309](../teaching/202304/): Networks in a Globalizing World |
 
@@ -23,7 +23,7 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 | Term | Course |
 | --- |  --- | 
-| 2022 Winter | [POLI 354](../teaching/202201/): International Organizations |
+| 2022 Winter | [POLI 364](../teaching/202201/): International Organizations |
    
 
 
