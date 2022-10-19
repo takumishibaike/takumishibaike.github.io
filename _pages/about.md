@@ -15,3 +15,5 @@ I am an Assistant Professor of International Relations at Duke Kunshan Universit
 My other interests include civil society participation in intergovernmental organizations, informational environments of NGOs in democratic and non-democratic countries, and different interpretations of "conservation" among the public. My teaching interests are in the areas of international relations, civil society organizations, and global environmental governance.
 
 Before starting at Duke Kunshan, I held postdoctoral positions at the European University Institute and the University of Calgary. I received my Ph.D. in Political Science from the University of Toronto. I hold an M.A. in Political Science from the University of Toronto and an LL.B. from Kwansei Gakuin University, Japan.
+
+<a class="twitter-timeline" href="https://twitter.com/TakumiShibaike?ref_src=twsrc%5Etfw">Tweets by TakumiShibaike</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
