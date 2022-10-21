@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf).
+Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf){:target="_blank"}.
 
 Contact me at [takumi.shibaike@duke.edu](mailto:takumi.shibaike@duke.edu).
 
