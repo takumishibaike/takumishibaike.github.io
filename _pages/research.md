@@ -11,7 +11,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 forthcoming\. ["The power of specialization: NGO advocacy in global conservation governance."](../research/paper6/) *International Studies Quarterly*.
 
-2022\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research*. (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
+2022\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research 20*(2), 13–-21. (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
 
 
 2022\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly*. (with Elizabeth Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}. 
