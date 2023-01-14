@@ -30,6 +30,6 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ## Office Hours
 
-Tuesday and Thursday 9:10-10:10 PM (China Standard Time) or by appointment via email.
+Appintment via email during Session 3. I will update the schedule when Session 4 begins.
 
 <iframe src="https://takumishibaike.youcanbook.me/?noframe=true&skipHeaderFooter=true" id="ycbmiframetakumishibaike" style="width:100%;height:1000px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true"></iframe><script>window.addEventListener && window.addEventListener("message", function(event){if (event.origin === "https://takumishibaike.youcanbook.me"){document.getElementById("ycbmiframetakumishibaike").style.height = event.data + "px";}}, false);</script>
