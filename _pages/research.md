@@ -11,6 +11,8 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 forthcoming\. ["The power of specialization: NGO advocacy in global conservation governance."](../research/paper6/) *International Studies Quarterly*.
 
+2023\. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society 37*(1), 23--50. (with Wendy Wong, Sarah Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
+
 2022\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research 20*(2), 13--21. (with Anthony DeMattee, Nick Gertler, and Elizabeth Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
 
 
@@ -19,8 +21,6 @@ forthcoming\. ["The power of specialization: NGO advocacy in global conservation
 2022\. "Legitimacy and legitimation practices: Analyzing social change organizations." *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://ubp.uni-bamberg.de/ojs/index.php/cgn/article/view/114){:target="_blank"}.
 
 2022\. "Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation." *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
-
-2021\. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society*. (with Wendy Wong, Sarah Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
 ## Working Papers
 
