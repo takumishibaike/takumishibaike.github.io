@@ -12,7 +12,7 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ### Duke Kunshan University
 
-| Term | Course |
+| Course | Term |
 | --- |  --- | 
 | POLSCI 101: International Politics | [2022 Fall (Session 2)](../teaching/polsci101_202202/), [2023 Spring (Session 4)](../teaching/polsci101_202304/)  |
 | ENVIR 301: International Environmental Policy | [2023 Spring (Session 4)](../teaching/envir301_202304/) |
@@ -20,7 +20,7 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ### University of British Columbia, Okanagan
 
-| Term | Course |
+| Course | Term |
 | --- |  --- | 
 | POLI 364: International Organizations | [2022 Winter](../teaching/202201/) |
    
