@@ -11,11 +11,11 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 forthcoming\. ["The power of specialization: NGO advocacy in global conservation governance."](../research/paper6/) *International Studies Quarterly*.
 
-2023\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly 52*(2). (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
+2023\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly, 52*(2): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
 
-2023\. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society 37*(1), 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
+2023\. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society, 37*(1): 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
-2022\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research 20*(2), 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
+2022\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research 20*(2): 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
 
 2022\. "Legitimacy and legitimation practices: Analyzing social change organizations." *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://ubp.uni-bamberg.de/ojs/index.php/cgn/article/view/114){:target="_blank"}.
 
