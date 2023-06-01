@@ -73,21 +73,21 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-M4ERCSD2MV"
 
 
 # Site Author
 author:
   name             : "Takumi Shibaike"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor of International Relations"
+  bio              : "Assistant Professor"
   location         : 
   employer         : "Duke Kunshan University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=1L6YT08AAAAJ"
-  email            : "takumi.shibaike@duke.edu"
+  email            : "thibaik@syr.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://scholars.duke.edu/person/takumi.shibaike"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "takumishibaike"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

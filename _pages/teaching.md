@@ -6,16 +6,6 @@ author_profile: true
 redirect_from:
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-M4ERCSD2MV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-M4ERCSD2MV');
-</script>
-
 I encourange my students to discover the usefulness of social scientific theories and methods and use them to challenge inherited assumptions. I am committed to creating a classroom environment where all students feel safe to share their thoughts and opinions.
 
 ## Courses
