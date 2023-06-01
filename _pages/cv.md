@@ -7,6 +7,16 @@ redirect_from:
   - /resume
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M4ERCSD2MV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M4ERCSD2MV');
+</script>
+
 Download CV [here](http://takumishibaike.github.io/files/shibaike_cv.pdf){:target="_blank"}.
 
 Contact me at [takumi.shibaike@duke.edu](mailto:takumi.shibaike@duke.edu).

@@ -5,6 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M4ERCSD2MV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-M4ERCSD2MV');
+</script>
+
 My research focuses on the role of nongovernmental organizations (NGOs) in global governance. I am especially interested in the role of small NGOs in global environmental governance. Please feel free to contact me if you have any questions or comments on my work.
 
 ## Referred Publications
