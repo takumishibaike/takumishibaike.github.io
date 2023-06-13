@@ -10,6 +10,13 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ## Courses
 
+### Syracuse University
+
+| Course | Term |
+| --- |  --- | 
+| PSC 300: Global Environmental Governance | 2023 Fall |
+| PSC 600: Global Environmental Governance | 2023 Fall |
+
 ### Duke Kunshan University
 
 | Course | Term |
@@ -29,6 +36,6 @@ I encourange my students to discover the usefulness of social scientific theorie
 
 ## Office Hours
 
-Monday 1:00PM--2:30PM at CC3098.
+TBD.
 
 <iframe src="https://takumishibaike.youcanbook.me/?noframe=true&skipHeaderFooter=true" id="ycbmiframetakumishibaike" style="width:100%;height:1000px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true"></iframe><script>window.addEventListener && window.addEventListener("message", function(event){if (event.origin === "https://takumishibaike.youcanbook.me"){document.getElementById("ycbmiframetakumishibaike").style.height = event.data + "px";}}, false);</script>
