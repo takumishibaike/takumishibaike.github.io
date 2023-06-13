@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
 ---
 
-I encourange my students to discover the usefulness of social scientific theories and methods and use them to challenge inherited assumptions. I am committed to creating a classroom environment where all students feel safe to share their thoughts and opinions.
+My goal is to help students develop their intellectual skills to identify important problems in the world. I am committed to creating a classroom environment where all students feel safe to share their thoughts and opinions.
 
 ## Courses
 
