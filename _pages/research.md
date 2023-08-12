@@ -23,6 +23,8 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 ## Working Papers
 
+"Who Tells Your Story? The Ecology of Civil Society Organizations at UNFCCC" *Under contract with Cambridge Elements.* (with Bi Zhao)
+
 ["Civil society advocacy for wildlife conservation in Vietnam."](../research/paper10/)
 
 ["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
