@@ -24,9 +24,8 @@ I provide links to the resources that *might* help coursework and research.
 - [Survival Bias](https://xkcd.com/1827/){:target="_blank"}: Want to drop out of college and start a new company like Bill Gates, Steve Jobs, and Mark Zuckerberg? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
 
 ## Writing
-- [How to not plagiarize](http://advice.writing.utoronto.ca/using-sources/how-not-to-plagiarize/){:target="_blank"}
-- [Writing Centres](http://writing.utoronto.ca/writing-centres/arts-and-science/){:target="_blank"}
-- [ESL Support](http://www.artsci.utoronto.ca/current/advising/ell){:target="_blank"}
+- [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}
+- [Citation Style Guide](https://owl.purdue.edu/owl/research_and_citation/index.html){:target="_blank"}
 
 ## Programming
 - [Basics of python](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p){:target="_blank"}
