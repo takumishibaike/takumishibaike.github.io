@@ -17,7 +17,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 2022\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research 20*(2): 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
 
-2022\. "Legitimacy and legitimation practices: Analyzing social change organizations." *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://ubp.uni-bamberg.de/ojs/index.php/cgn/article/view/114){:target="_blank"}.
+2022\. "Legitimacy and legitimation practices: An Analysis of TSMO Networks." *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://complexity-governance-networks.com/index.php/cgn/article/view/111){:target="_blank"}.
 
 2022\. "Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation." *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
 
