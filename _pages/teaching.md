@@ -14,8 +14,8 @@ My goal is to help students develop their intellectual skills to identify import
 
 | Course | Term |
 | --- |  --- | 
-| PSC 300: Global Environmental Governance | 2023 Fall |
-| PSC 600: Global Environmental Governance | 2023 Fall |
+| PSC 300: Global Environmental Governance | [2023 Fall](../teaching/psc300_202308/) |
+
 
 ### Duke Kunshan University
 
