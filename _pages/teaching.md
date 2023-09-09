@@ -12,23 +12,17 @@ My goal is to help students develop their intellectual skills to identify import
 
 ### Syracuse University
 
-| Course | Term |
-| --- |  --- | 
-|  |  |
+| Global Environmental Politics Seminar Series | 2023 Fall |
 
 
 ### Duke Kunshan University
 
-| Course | Term |
-| --- |  --- | 
 | POLSCI 101: International Politics | [2022 Fall (Session 2)](../teaching/polsci101_202202/), [2023 Spring (Session 4)](../teaching/polsci101_202304/)  |
 | ENVIR 301: International Environmental Policy | [2023 Spring (Session 4)](../teaching/envir301_202304/) |
 
 
 ### University of British Columbia, Okanagan
 
-| Course | Term |
-| --- |  --- | 
 | POLI 364: International Organizations | [2022 Winter](../teaching/202201/) |
    
 
