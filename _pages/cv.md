@@ -17,8 +17,6 @@ Syracuse University<br>
 Department of Political Science<br>
 100 Eggers Hall, Syracuse, NY 13244-1020 USA<br>
 
-<iframe style="filter: invert(90%) hue-rotate(180deg)" src= width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 <html>
   <head>
     <title>Styled Maps - Night Mode</title>
