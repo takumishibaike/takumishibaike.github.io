@@ -9,7 +9,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 ## Book
 
-*Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Under contract with Cambridge University Press, Elements in Organizational Response to Climate Change. (with Bi Zhao).
+*Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Under contract with Cambridge University Press. (with Bi Zhao).
 
 ## Referred Publications
 
