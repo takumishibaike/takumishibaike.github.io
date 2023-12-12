@@ -7,6 +7,10 @@ author_profile: true
 
 My research focuses on the role of nongovernmental organizations (NGOs) in global governance. I am especially interested in the role of small NGOs in global environmental governance. Please feel free to contact me if you have any questions or comments on my work.
 
+## Book
+
+*Who tells your story? Women and indigenous peoples advocacy at the UNFCCC* Under contract with Cambridge University Press, Elements in Organizational Response to Climate Change. (with Bi Zhao).
+
 ## Referred Publications
 
 2023\. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly, 67*(2): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
@@ -22,8 +26,6 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 2022\. "Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation." *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
 
 ## Working Papers
-
-"Who Tells Your Story? The Ecology of Civil Society Organizations at UNFCCC" *Under contract with Cambridge Elements.* (with Bi Zhao)
 
 ["Civil society advocacy for wildlife conservation in Vietnam."](../research/paper10/)
 
