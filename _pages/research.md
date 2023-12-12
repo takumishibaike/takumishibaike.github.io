@@ -11,7 +11,7 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 2023\. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly, 67*(2): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
-2023\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly, 52*(2): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
+2023\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly, 52*(2): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, Amy Melvin, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
 
 2023\. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society, 37*(1): 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
