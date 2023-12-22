@@ -13,6 +13,8 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 
 ## Referred Publications
 
+forthcoming. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics*.
+
 2023\. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly, 67*(2): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
 2023\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly, 52*(2): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, Amy Melvin, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
@@ -26,8 +28,6 @@ My research focuses on the role of nongovernmental organizations (NGOs) in globa
 2022\. "Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation." *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
 
 ## Working Papers
-
-["Civil society advocacy for wildlife conservation in Vietnam."](../research/paper10/)
 
 ["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
 
