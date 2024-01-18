@@ -13,7 +13,7 @@ My goal is to help students develop their intellectual skills to identify import
 ### Syracuse University
 
 | MAX 132: Global Community | 2024 Fall |
-| PSC 318: Technology, Politics, and Environment | 2024 Spring |
+| PSC 318: Technology, Politics, and Environment | [2024 Spring](../teaching/psc318_202401/) |
 | Global Environmental Politics Seminar Series | 2023 Fall |
 
 
@@ -25,7 +25,7 @@ My goal is to help students develop their intellectual skills to identify import
 
 ### University of British Columbia, Okanagan
 
-| POLI 364: International Organizations | [2022 Winter](../teaching/202201/) |
+| POLI 364: International Organizations | [2022 Winter (Spring)](../teaching/poli364_202201/) |
    
 
 
