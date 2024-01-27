@@ -13,4 +13,4 @@ My other interests include civil society participation in intergovernmental orga
 
 Before starting at Syracuse University, I was an Assistant Professor at [Duke Kunshan University](https://www.dukekunshan.edu.cn/){:target="_blank"} and held postdoctoral positions at the [University of Calgary](https://www.policyschool.ca/){:target="_blank"} and the [European University Institute](https://www.eui.eu/en/academic-units/max-weber-programme-for-postdoctoral-studies){:target="_blank"}. I received my Ph.D. in Political Science from the [University of Toronto](https://politics.utoronto.ca/){:target="_blank"}.
 
-I acknowledge with respect the Onondaga Nation, firekeepers of the Haudenosaunee, the Indigenous People on whose ancestral lands Syracuse University now stands.
+*I acknowledge with respect the Onondaga Nation, firekeepers of the Haudenosaunee, the Indigenous People on whose ancestral lands Syracuse University now stands.*
