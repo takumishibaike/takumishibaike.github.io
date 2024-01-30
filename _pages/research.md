@@ -35,7 +35,7 @@ forthcoming. "Local backlash against INGOs? How heterogeneous interests conditio
 
 ["Evidence of Civil Society Exclusion in the Organization of African Unity."](../research/paper9/) (with Alfred Oduro).
 
-"The analysis of Canadian media coverage on military procurement (2001-2019)" (with Jean-Christophe Boucher)
+"The analysis of Canadian media coverage on military procurement (2001-2019)." (with Jean-Christophe Boucher).
 
 ## Non-referred Publications
 
