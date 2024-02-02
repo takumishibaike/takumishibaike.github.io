@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on the role of civil society organizations in global governance. I am especially interested in the role of small NGOs in the governance of biodiversity and climate change. Please feel free to contact me if you have any questions or comments on my work.
+My research focuses on the role of civil society activism in global environmental governance. I am especially interested in the role of small NGOs in the governance of biodiversity and climate change. Please feel free to contact me if you have any questions or comments on my work.
 
 ## Book
 
