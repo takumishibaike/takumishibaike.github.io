@@ -6,10 +6,10 @@ author_profile: true
 redirect_from:
 ---
 
-I provide links to the resources that *might* help coursework and research.
+Here, I provide links to the resources that *might* help coursework and research.
 
 ## PoliSci stuff (very broadly)
-- [Prisoner's Dilemma](https://www.youtube.com/watch?v=7FbkwrhW_0I){:target="_blank"}: Why is "defection" a dominant strategy?
+- [Prisoner's Dilemma](https://www.npr.org/sections/money/2012/04/25/151378032/game-theory-explained-with-golden-balls){:target="_blank"}: Why is "defection" a dominant strategy?
 - [Trust and Game Theory](http://ncase.me/trust/){:target="_blank"}: How can we overcome the prisoner's dilemma?
 - [Segregation](http://ncase.me/polygons/){:target="_blank"}: How does segregation happen?
 - [Zipf's Law in Natural Language](https://youtu.be/fCn8zs912OE){:target="_blank"}: Which word appears most frequently and why?
@@ -24,7 +24,7 @@ I provide links to the resources that *might* help coursework and research.
 - [Survivorship Bias](https://xkcd.com/1827/){:target="_blank"}: Want to drop out of college and start a new company like Bill Gates, Steve Jobs, and Mark Zuckerberg? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
 
 ## Writing
-- [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}
+- [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}: I cannot stress enough how much your essay writing will benefit from consulting the Writing Center.
 - [Citation Style Guide](https://owl.purdue.edu/owl/research_and_citation/index.html){:target="_blank"}
 
 ## Programming
