@@ -15,21 +15,21 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 
 ## Referred Publications
 
-7. forthcoming. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics*.
+0. (forthcoming). "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics*.
 * Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY)
 
-6. 2023\. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly, 67*(2): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
+0. (2023)\. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly, 67*(2): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
-5. 2023\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly, 52*(2): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, Amy Melvin, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
+0. (2023)\. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly, 52*(2): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, Amy Melvin, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
 
-4. 2023\. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society, 37*(1): 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
+0. (2023)\. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society, 37*(1): 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
-3. 2022\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research 20*(2): 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
+0. (2022)\. "Overcoming the laws-in-translation problem: Comparing techniques to translate legal texts." *Qualitative and Multi-Method Research 20*(2): 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
 * Supplimentary file: [doi.org/10.31219/osf.io/jc5p9](https://doi.org/10.31219/osf.io/jc5p9)
 
-2. 2022\. "Legitimacy and legitimation practices: An Analysis of TSMO Networks." *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://complexity-governance-networks.com/index.php/cgn/article/view/111){:target="_blank"}.
+0. (2022)\. "Legitimacy and legitimation practices: An Analysis of TSMO Networks." *Complexity, Governance & Networks, 8*(1): 1--24. [doi.org/10.20377/cgn-114](https://complexity-governance-networks.com/index.php/cgn/article/view/111){:target="_blank"}.
 
-1. 2022\. "Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation." *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
+0. (2022)\. "Small NGOs and agenda-setting in global conservation governance: The case of pangolin conservation." *Global Environmental Politics, 22*(2): 45--69. [doi:10.1162/glep_a_00623](https://doi.org/10.1162/glep_a_00623){:target="_blank"}.
 {: reversed="reversed"}
 
 ## Working Papers
