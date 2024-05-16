@@ -16,6 +16,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 ## Referred Publications
 
 forthcoming. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics*.
+- Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY)
 
 2023\. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly, 67*(2): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
