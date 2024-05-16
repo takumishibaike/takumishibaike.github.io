@@ -24,7 +24,7 @@ Here, I provide links to the resources that *might* help coursework and research
 - [Survivorship Bias](https://xkcd.com/1827/){:target="_blank"}: Want to drop out of college and start a new company like Bill Gates, Steve Jobs, and Mark Zuckerberg? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
 
 ## Writing
-- [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}: I cannot stress enough how much your essay writing will benefit from consulting the Writing Center.
+- [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}
 - [Citation Style Guide](https://owl.purdue.edu/owl/research_and_citation/index.html){:target="_blank"}
 
 ## Programming
