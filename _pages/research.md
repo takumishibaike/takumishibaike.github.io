@@ -17,7 +17,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 ## Referred Publications
 
 0. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics* (forthcoming).
-* Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY)
+* Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY){:target="_blank"}
 
 0. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly* 67.2 (2023): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
@@ -26,7 +26,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 0. "The stories they tell: what INGO mission statements reveal about their authority." *Global Society* 37.1 (2023): 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
 0. "Overcoming the Laws-in-Translation Problem: Comparing Techniques for Translating Legal Texts." *Qualitative and Multi-Method Research* 20.2 (2022): 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}
-* Supplimentary file: [doi.org/10.31219/osf.io/jc5p9](https://doi.org/10.31219/osf.io/jc5p9)
+* Supplimentary file: [doi.org/10.31219/osf.io/jc5p9](https://doi.org/10.31219/osf.io/jc5p9){:target="_blank"}
 
 0. "Legitimacy and legitimation practices: An analysis of TSMO networks." *Complexity, Governance & Networks* 8.1 (2022): 1--24.[doi.org/10.20377/cgn-114](https://complexity-governance-networks.com/index.php/cgn/article/view/111){:target="_blank"}.
 
@@ -35,13 +35,14 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 
 ## Working Papers
 
-["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
+0. ["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
 
-["Climate change discourse at the UNFCCC: Frames and networks of NGOs."](../research/paper8/) (with Bi Zhao).
+0. ["Climate change discourse at the UNFCCC: Frames and networks of NGOs."](../research/paper8/) (with Bi Zhao).
 
-["Evidence of Civil Society Exclusion in the Organization of African Unity."](../research/paper9/) (with Alfred Oduro).
+0. ["Evidence of Civil Society Exclusion in the Organization of African Unity."](../research/paper9/) (with Alfred Oduro).
 
-"The analysis of Canadian media coverage on military procurement (2001-2019)." (with Jean-Christophe Boucher).
+0. "The analysis of Canadian media coverage on military procurement (2001-2019)." (with Jean-Christophe Boucher).
+{: reversed="reversed"}
 
 ## Non-referred Publications
 
