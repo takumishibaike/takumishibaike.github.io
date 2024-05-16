@@ -7,6 +7,8 @@ author_profile: true
 
 My research focuses on the role of civil society activism in global environmental governance. I am especially interested in the role of small NGOs in the governance of biodiversity and climate change. Please feel free to contact me if you have any questions or comments on my work.
 
+Replicaton files are available on my [GitHub](https://github.com/takumishibaike){:target="_blank"}.
+
 ## Book
 
 *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Under contract with Cambridge University Press. (with Bi Zhao).
