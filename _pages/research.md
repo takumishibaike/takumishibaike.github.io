@@ -23,9 +23,9 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 
 0. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly* 52.2 (2023): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, Amy Melvin, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
 
-0. "The stories they tell: what INGO mission statements reveal about their authority." *Global Society* 37.1 (2023): 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
+0. "The stories they tell: What INGO mission statements reveal about their authority." *Global Society* 37.1 (2023): 23--50. (with Wendy H\. Wong, Sarah S\. Stroup, and Alfred Oduro). [doi:10.1080/13600826.2021.1970516](https://doi.org/10.1080/13600826.2021.1970516){:target="_blank"}.
 
-0. "Overcoming the Laws-in-Translation Problem: Comparing Techniques for Translating Legal Texts." *Qualitative and Multi-Method Research* 20.2 (2022): 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}.
+0. "Overcoming the laws-in-translation problem: Comparing techniques for translating legal texts." *Qualitative and Multi-Method Research* 20.2 (2022): 13--21. (with Anthony J\. DeMattee, Nick Gertler, and Elizabeth A\. Bloodgood). [doi.org/10.5281/zenodo.7140081](https://doi.org/10.5281/zenodo.7140081){:target="_blank"}.
 * Supplimentary file: [doi.org/10.31219/osf.io/jc5p9](https://doi.org/10.31219/osf.io/jc5p9){:target="_blank"}.
 
 0. "Legitimacy and legitimation practices: An analysis of TSMO networks." *Complexity, Governance & Networks* 8.1 (2022): 1--24.[doi.org/10.20377/cgn-114](https://complexity-governance-networks.com/index.php/cgn/article/view/111){:target="_blank"}.
@@ -39,7 +39,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 
 0. ["Climate change discourse at the UNFCCC: Frames and networks of NGOs."](../research/paper8/) (with Bi Zhao).
 
-0. ["Evidence of Civil Society Exclusion in the Organization of African Unity."](../research/paper9/) (with Alfred Oduro).
+0. ["Evidence of civil society exclusion in the Organization of African Unity."](../research/paper9/) (with Alfred Oduro).
 
 0. "The analysis of Canadian media coverage on military procurement (2001-2019)." (with Jean-Christophe Boucher).
 {: reversed="reversed"}
