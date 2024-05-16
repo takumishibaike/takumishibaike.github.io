@@ -21,7 +21,7 @@ Here, I provide links to the resources that *might* help coursework and research
 - [Theorizing](http://www.theory-talks.org/p/keywords.html){:target="_blank"}: How did scholars come up with a theory?
 - [Hierarchical Modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}: A visual, intuitive explanation for what hierarchical modeling is.
 - [Scientific Progress](https://plato.stanford.edu/entries/scientific-progress/){:target="_blank"}: What is "scientific progress"?
-- [Survivorship Bias](https://xkcd.com/1827/){:target="_blank"}: Want to drop out of college and start a new company like Bill Gates, Steve Jobs, and Mark Zuckerberg? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
+- [Survivorship Bias](https://xkcd.com/1827/){:target="_blank"}: Do you want to drop out of college and become a billionaire? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
 
 ## Writing
 - [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}
