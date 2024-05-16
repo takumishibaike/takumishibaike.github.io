@@ -19,7 +19,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 0. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics* (forthcoming).
 * Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY)
 
-0. "The Power of Specialization: NGO Advocacy in Global Conservation Governance." *International Studies Quarterly* 67.2 (2023): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
+0. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly* 67.2 (2023): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
 0. "Understanding national nonprofit data environments." *Nonprofit and Voluntary Sector Quarterly* 52.2 (2023): 281--303. (with Elizabeth A\. Bloodgood, Michael Lenczner, Jesse Bourns, Jenny Tabet, Amy Melvin, and Wendy H\. Wong). [doi.org/10.1177/08997640221085731](https://journals.sagepub.com/doi/10.1177/08997640221085731){:target="_blank"}.
 
