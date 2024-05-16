@@ -11,7 +11,8 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 
 ## Book
 
-*Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Under contract with Cambridge University Press. (with Bi Zhao).
+0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Under contract with Cambridge University Press. (with Bi Zhao).
+{: reversed="reversed"}
 
 ## Referred Publications
 
@@ -47,3 +48,4 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 0. ["For academic collaboration (in Japanese)."](https://takumishibaike.github.io/files/shibaike_janporanews.pdf) *Japan NPO Research Association Newsletter* (2019).
 
 0. ["Human rights in G7."](https://takumishibaike.github.io/files/shibaike_lexis.pdf) *Lexis&reg;PSL Public Law* (2015).
+{: reversed="reversed"}
