@@ -18,10 +18,10 @@ Here, I provide links to the resources that *might* help coursework and research
 - [Trolly problem](https://www.youtube.com/watch?v=TmIgmOx5vnQ){:target="_blank"}: Also, [this](http://i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png){:target="_blank"}.
 - [Utilitarianism](https://existentialcomics.com/comic/426){:target="_blank"}: How should we maximize social welfare?
 - [Theorizing](https://web.archive.org/web/20240330152241/http://www.theory-talks.org/){:target="_blank"}: How did scholars come up with a theory?
-- [Hierarchical modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}: A visual, intuitive explanation for what hierarchical modeling is.
+- [Hierarchical modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}: What is hierarchical modeling.
 - [Scientific progress](https://plato.stanford.edu/entries/scientific-progress/){:target="_blank"}: What is "scientific progress"?
 - [Survivorship bias](https://xkcd.com/1827/){:target="_blank"}: Do you want to drop out of college and become a billionaire? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
-- [Democratic peace](http://users.erols.com/mwhite28/demowar.htm){:target="_blank"}: A simple but controversial theory in international relations.
+- [Democratic peace](http://users.erols.com/mwhite28/demowar.htm){:target="_blank"}: Is it true that democracies do not make war on each other?
 
 ## Writing
 - [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}
