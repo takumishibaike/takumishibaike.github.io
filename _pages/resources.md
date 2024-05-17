@@ -9,19 +9,19 @@ redirect_from:
 Here, I provide links to the resources that *might* help coursework and research.
 
 ## PoliSci stuff (very broadly)
-- [Prisoner's Dilemma](https://www.npr.org/sections/money/2012/04/25/151378032/game-theory-explained-with-golden-balls){:target="_blank"}: Why is "defection" a dominant strategy?
-- [Trust and Game Theory](http://ncase.me/trust/){:target="_blank"}: How can we overcome the prisoner's dilemma?
-- [Segregation](http://ncase.me/polygons/){:target="_blank"}: How does segregation happen?
-- [Zipf's Law in Natural Language](https://youtu.be/fCn8zs912OE){:target="_blank"}: Which word appears most frequently and why?
+- [Prisoner's dilemma](https://www.npr.org/sections/money/2012/04/25/151378032/game-theory-explained-with-golden-balls){:target="_blank"}: Why is "defection" a dominant strategy?
+- [Trust and game theory](http://ncase.me/trust/){:target="_blank"}: How can we overcome the prisoner's dilemma?
+- [Zipf's law in natural language](https://youtu.be/fCn8zs912OE){:target="_blank"}: Which word appears most frequently and why?
 - [WEIRD](https://blogs.scientificamerican.com/primate-diaries/the-weird-evolution-of-human-psychology){:target="_blank"}: Are we all "weird"?
-- [Social Contract](https://www.youtube.com/watch?v=ttu8va9_x1g){:target="_blank"}: How do we escape "the state of nature"?
-- [Moral Foundations](https://www.ted.com/talks/jonathan_haidt_on_the_moral_mind){:target="_blank"}: Where does morality come from?
-- [Trolly Problem](https://www.youtube.com/watch?v=TmIgmOx5vnQ){:target="_blank"}: Also, [this](http://i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png){:target="_blank"}.
+- [Social contract](https://www.youtube.com/watch?v=ttu8va9_x1g){:target="_blank"}: How do we escape "the state of nature"?
+- [Moral foundations](https://www.ted.com/talks/jonathan_haidt_on_the_moral_mind){:target="_blank"}: Where does morality come from?
+- [Trolly problem](https://www.youtube.com/watch?v=TmIgmOx5vnQ){:target="_blank"}: Also, [this](http://i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png){:target="_blank"}.
 - [Utilitarianism](https://existentialcomics.com/comic/426){:target="_blank"}: How should we maximize social welfare?
-- [Theorizing](http://www.theory-talks.org/p/keywords.html){:target="_blank"}: How did scholars come up with a theory?
-- [Hierarchical Modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}: A visual, intuitive explanation for what hierarchical modeling is.
-- [Scientific Progress](https://plato.stanford.edu/entries/scientific-progress/){:target="_blank"}: What is "scientific progress"?
-- [Survivorship Bias](https://xkcd.com/1827/){:target="_blank"}: Do you want to drop out of college and become a billionaire? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
+- [Theorizing](https://web.archive.org/web/20240330152241/http://www.theory-talks.org/){:target="_blank"}: How did scholars come up with a theory?
+- [Hierarchical modeling](http://mfviz.com/hierarchical-models/){:target="_blank"}: A visual, intuitive explanation for what hierarchical modeling is.
+- [Scientific progress](https://plato.stanford.edu/entries/scientific-progress/){:target="_blank"}: What is "scientific progress"?
+- [Survivorship bias](https://xkcd.com/1827/){:target="_blank"}: Do you want to drop out of college and become a billionaire? [No](https://www.mcgill.ca/oss/article/general-science/tips-better-thinking-surviving-only-half-story){:target="_blank"}.
+- [Democratic peace](http://users.erols.com/mwhite28/demowar.htm){:target="_blank"}: A simple but controversial theory in international relations.
 
 ## Writing
 - [Writing Center](https://artsandsciences.syracuse.edu/writing-center/){:target="_blank"}
