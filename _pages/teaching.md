@@ -33,6 +33,6 @@ My goal is to help students develop their intellectual skills to identify import
 
 ## Office Hours
 
-TBD.
+Wednesday 1:45-3:15 PM (Maxwell 413A or Zoom). Please book a time slot from below.
 
 <iframe src="https://takumishibaike.youcanbook.me/?noframe=true&skipHeaderFooter=true" id="ycbmiframetakumishibaike" style="width:100%;height:650px;border:0px;background-color:transparent;" frameborder="0" allowtransparency="true"></iframe><script>window.addEventListener && window.addEventListener("message", function(event){if (event.origin === "https://takumishibaike.youcanbook.me"){document.getElementById("ycbmiframetakumishibaike").style.height = event.data + "px";}}, false);</script>
