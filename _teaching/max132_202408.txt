@@ -1,0 +1,11 @@
+---
+layout: archive
+title: "MAX 132: Global Community (Fall 2024)"
+permalink: /teaching/max132_202408/
+author_profile: true
+--- 
+
+MAX 132 is designed to help you become informed about globalization and explore the challenges and possibilities of a global community. Taught by an interdisciplinary team of instructors, MAX 132 is a signature course of the Maxwell School of Citizenship and Public Affairs. During this semester, our aim is to sharpen your reasoning, reading, writing and speaking skills, in order to enhance your ability to participate as a citizen in dealing with global and national public affairs. 
+
+- [Syllabus](http://takumishibaike.github.io/files/max132/psc132_202408.pdf)
+
