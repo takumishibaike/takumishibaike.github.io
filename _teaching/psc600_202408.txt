@@ -7,5 +7,5 @@ author_profile: true
 
 This course examines the politics of global environmental governance. Environmental governance is defined as the actions, rules, and norms that attempt to address the problems of resource scarcity in nature. You will learn key social scientific theories and concepts to evaluate global environmental governance efforts by public authorities as well as private actors. This course stands on the premise that global environmental governance is not limited to interstate dynamics, but it is tied to domestic and transnational political processes. It highlights a wide variety of actors and approaches in environmental governance so that you will be able to analyze real-world, environmental problems from multiple angles.
 
-- [Syllabus](http://takumishibaike.github.io/files/psc318/psc600_202408.pdf)
+- [Syllabus](http://takumishibaike.github.io/files/psc600/psc600_202408.pdf)
 
