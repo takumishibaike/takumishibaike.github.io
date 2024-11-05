@@ -11,7 +11,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 
 ## Book
 
-0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press, forthcoming. (with Bi Zhao).
+0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press (Elements in organizational respones to climate change), forthcoming. (with Bi Zhao).
 {: reversed="reversed"}
 
 ## Refereed Publications
