@@ -14,7 +14,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press, forthcoming. (with Bi Zhao).
 {: reversed="reversed"}
 
-## Referred Publications
+## Refereed Publications
 
 0. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics* (forthcoming). [doi.org/10.1086/732968](https://doi.org/10.1086/732968){:target="_blank"}.
 * Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY){:target="_blank"}.
