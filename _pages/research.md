@@ -7,9 +7,9 @@ author_profile: true
 
 My research focuses on the role of civil society activism in global environmental governance. I am especially interested in the role of small NGOs in the governance of biodiversity and climate change. Please feel free to contact me if you have any questions or comments on my work.
 
-Acronyms in the titles: NGO (nongovernmental organization), INGO (international nongovernmental organization), UNFCCC (United Nations Framework Convention on Climate Change), TSMO (transnational social mobilization organization), COP (Conference of the Parties)
-
 Replicaton files are available on my [GitHub](https://github.com/takumishibaike){:target="_blank"}.
+
+Acronyms: NGO (nongovernmental organization), INGO (international nongovernmental organization), UNFCCC (United Nations Framework Convention on Climate Change), TSMO (transnational social mobilization organization), COP (Conference of the Parties)
 
 ## Books
 
