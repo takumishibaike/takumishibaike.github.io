@@ -7,12 +7,16 @@ author_profile: true
 
 My research focuses on the role of civil society activism in global environmental governance. I am especially interested in the role of small NGOs in the governance of biodiversity and climate change. Please feel free to contact me if you have any questions or comments on my work.
 
+Acronyms in the titles: NGO (nongovernmental organization), INGO (international nongovernmental organization), UNFCCC (United Nations Framework Convention on Climate Change), TSMO (transnational social mobilization organization)
+
 Replicaton files are available on my [GitHub](https://github.com/takumishibaike){:target="_blank"}.
 
 ## Book
 
 0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press (Elements in organizational respones to climate change), forthcoming. (with Bi Zhao).
 {: reversed="reversed"}
+
+0. Boucher, Jean-Christophe, Alexandra Richards, and Takumi Shibaike. (eds.).\ under contract.\ \textit{Media and National Defense in Canada}. \textbf{UBC Press}.
 
 ## Refereed Articles
 
