@@ -7,7 +7,7 @@ author_profile: true
 
 My research focuses on the role of civil society activism in global environmental governance. I am especially interested in the role of small NGOs in the governance of biodiversity and climate change. Please feel free to contact me if you have any questions or comments on my work.
 
-Acronyms in the titles: NGO (nongovernmental organization), INGO (international nongovernmental organization), UNFCCC (United Nations Framework Convention on Climate Change), TSMO (transnational social mobilization organization)
+Acronyms in the titles: NGO (nongovernmental organization), INGO (international nongovernmental organization), UNFCCC (United Nations Framework Convention on Climate Change), TSMO (transnational social mobilization organization), COP (Conference of Parties)
 
 Replicaton files are available on my [GitHub](https://github.com/takumishibaike){:target="_blank"}.
 
@@ -39,11 +39,15 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 
 ## Working Papers
 
-0. ["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
+0. "Emotions and climate justice in social media posts during UNFCCC COPs."
+
+0. "Understanding agenda-setting and outcomes in global tuna governance: A machine-learning approach" (with Laurenne Schiller and Graeme Auld).
 
 0. ["Climate change discourse at the UNFCCC: Frames and networks of NGOs."](../research/paper8/) (with Bi Zhao).
 
-0. ["Evidence of civil society exclusion in the Organization of African Unity."](../research/paper9/) (with Alfred Oduro).
+0. ["The 'inclusion' of civil society in the Organisation of African Unity."](../research/paper9/) (with Alfred Oduro).
 
 0. "The analysis of Canadian media coverage on military procurement (2001-2019)." (with Jean-Christophe Boucher).
+
+0. ["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
 {: reversed="reversed"}
