@@ -16,7 +16,7 @@ Replicaton files are available on my [GitHub](https://github.com/takumishibaike)
 0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press (Elements in organizational respones to climate change), forthcoming. (with Bi Zhao).
 {: reversed="reversed"}
 
-0. (eds.) *Media and National Defense in Canada*. UBC Press, under contract. (with Jean-Christophe Boucher and Alexandra Richards)
+0. *Media and National Defense in Canada* (eds.). UBC Press, under contract. (with Jean-Christophe Boucher and Alexandra Richards)
 
 ## Refereed Articles
 
