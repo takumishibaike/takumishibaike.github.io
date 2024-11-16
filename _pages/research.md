@@ -9,7 +9,7 @@ My research focuses on the role of civil society activism in global environmenta
 
 Replicaton files are available on my [GitHub](https://github.com/takumishibaike){:target="_blank"}.
 
-Acronyms: NGO (nongovernmental organization), INGO (international nongovernmental organization), UNFCCC (United Nations Framework Convention on Climate Change), TSMO (transnational social mobilization organization), COP (Conference of the Parties)
+Acronyms: NGO (nongovernmental organization), INGO (international nongovernmental organization), UNFCCC (United Nations Framework Convention on Climate Change), TSMO (transnational social mobilization organization), COP (Conference of the Parties), RFMO (regional fisheries management organization)
 
 ## Books
 
@@ -41,7 +41,7 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 0. "Emotions and climate justice in social media posts during UNFCCC COPs."
 
-0. "Understanding agenda-setting and outcomes in global tuna governance: A machine-learning approach" (with Laurenne Schiller and Graeme Auld).
+0. "Understanding agenda-setting and outcomes in tuna RFMOs: A machine-learning approach" (with Laurenne Schiller and Graeme Auld).
 
 0. ["Climate change discourse at the UNFCCC: Frames and networks of NGOs."](../research/paper8/) (with Bi Zhao).
 
