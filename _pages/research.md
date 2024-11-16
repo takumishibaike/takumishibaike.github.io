@@ -43,7 +43,7 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 0. "Understanding agenda-setting and outcomes in tuna RFMOs: A machine-learning approach" (with Laurenne Schiller and Graeme Auld).
 
-0. ["Climate change discourse at the UNFCCC: Frames and networks of NGOs."](../research/paper8/) (with Bi Zhao).
+0. ["Framing climate justice at UNFCCC COP Side Events"](../research/paper8/) (with Bi Zhao).
 
 0. ["The 'inclusion' of civil society in the Organisation of African Unity."](../research/paper9/) (with Alfred Oduro).
 
