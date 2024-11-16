@@ -11,12 +11,12 @@ Acronyms in the titles: NGO (nongovernmental organization), INGO (international 
 
 Replicaton files are available on my [GitHub](https://github.com/takumishibaike){:target="_blank"}.
 
-## Book
+## Books
 
 0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press (Elements in organizational respones to climate change), forthcoming. (with Bi Zhao).
 {: reversed="reversed"}
 
-0. Boucher, Jean-Christophe, Alexandra Richards, and Takumi Shibaike. (eds.).\ under contract.\ \textit{Media and National Defense in Canada}. \textbf{UBC Press}.
+0. (eds.) *Media and National Defense in Canada*. UBC Press, under contract. (with Jean-Christophe Boucher and Alexandra Richards)
 
 ## Refereed Articles
 
