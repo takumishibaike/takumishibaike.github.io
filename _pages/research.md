@@ -41,9 +41,9 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 0. "Emotions and climate justice in social media posts during UNFCCC COPs."
 
-0. "Understanding agenda-setting and outcomes in tuna RFMOs: A machine-learning approach" (with Laurenne Schiller and Graeme Auld).
+0. "Understanding agenda-setting and outcomes in tuna RFMOs: A machine-learning approach." (with Laurenne Schiller and Graeme Auld).
 
-0. ["Framing climate justice at UNFCCC COP Side Events"](../research/paper8/) (with Bi Zhao).
+0. "Framing climate justice at UNFCCC COP Side Events." (with Bi Zhao).
 
 0. ["The 'inclusion' of civil society in the Organisation of African Unity."](../research/paper9/) (with Alfred Oduro).
 
