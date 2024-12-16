@@ -13,7 +13,7 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 ## Books
 
-0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press (Elements in organizational respones to climate change), forthcoming. (with Bi Zhao).
+0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press (Elements in organizational respone to climate change), forthcoming. (with Bi Zhao). [Link](https://www.cambridge.org/core/elements/abs/who-tells-your-story/F3266F3D357726E4D60EBA02292B8716){:target="_blank"}.
 
 0. *Media and National Defense in Canada* (eds.). UBC Press, under contract. (with Jean-Christophe Boucher and Alexandra Richards).
 {: reversed="reversed"}
