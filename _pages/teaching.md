@@ -13,8 +13,8 @@ My goal is to help students develop their intellectual skills to identify import
 ### Syracuse University
 
 | MAX 132: Global Community | [2024 Fall](../teaching/max132_202408/)  |
+| PSC 318: Technology, Politics, and Environment | [2024 Spring](../teaching/psc318_202401/), 2025 Spring |
 | PSC 600: Global Environmental Governance | [2024 Fall](../teaching/psc600_202408/) |
-| PSC 318: Technology, Politics, and Environment | [2024 Spring](../teaching/psc318_202401/) |
 | Global Environmental Politics Seminar Series | 2023 Fall |
 
 

@@ -20,6 +20,8 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 ## Refereed Articles
 
+0. "The 'inclusion' of civil society in the Organisation of African Unity." *Interest Groups & Advocacy* (forthcoming). (with Alfred Oduro).
+
 0. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics* (forthcoming). [doi.org/10.1086/732968](https://doi.org/10.1086/732968){:target="_blank"}.
 * Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY){:target="_blank"}.
 
@@ -44,8 +46,6 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 0. "Understanding agenda-setting and outcomes in tuna RFMOs: A machine-learning approach." (with Laurenne Schiller and Graeme Auld).
 
 0. "Framing climate justice at UNFCCC COP Side Events." (with Bi Zhao).
-
-0. ["The 'inclusion' of civil society in the Organisation of African Unity."](../research/paper9/) (with Alfred Oduro).
 
 0. "The analysis of Canadian media coverage on military procurement (2001-2019)." (with Jean-Christophe Boucher).
 
