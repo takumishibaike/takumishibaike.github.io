@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Takumi Shibaike"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor of Political Science (He/Him) 🇨🇦"
+  bio              : "Assistant Professor of Political Science (He/Him) 🇨<img src='/assets/images/canadian-flag.png' alt='Canadian flag' style='width: 16px; height: 16px; display: inline;'>"
   location         : 
   employer         : "Syracuse University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
