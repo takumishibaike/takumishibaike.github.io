@@ -12,20 +12,20 @@ My goal is to help students develop their intellectual skills to identify import
 
 ### Syracuse University
 
-| MAX 132: Global Community | [2024 Fall](../teaching/max132_202408/), 2025 Fall  |
-| PSC 318: Technology, Politics, and Environment | [2024 Spring](../teaching/psc318_202401/), 2025 Spring, 2025 Fall |
-| PSC 600: Global Environmental Governance | [2024 Fall](../teaching/psc600_202408/) |
+| MAX 132: Global Community | [2024F](../teaching/max132_202408/), 2025F  |
+| PSC 318: Technology, Politics, and Environment | [2024S](../teaching/psc318_202401/), 2025S&F, |
+| PSC 600: Global Environmental Governance | [2024F](../teaching/psc600_202408/) |
 
 
 ### Duke Kunshan University
 
-| POLSCI 101: International Politics | [2022 Fall (Session 2)](../teaching/polsci101_202202/), [2023 Spring (Session 4)](../teaching/polsci101_202304/)  |
-| ENVIR 301: International Environmental Policy | [2023 Spring (Session 4)](../teaching/envir301_202304/) |
+| POLSCI 101: International Politics | [2022F](../teaching/polsci101_202202/), [2023S](../teaching/polsci101_202304/)  |
+| ENVIR 301: International Environmental Policy | [2023S](../teaching/envir301_202304/) |
 
 
 ### University of British Columbia, Okanagan
 
-| POLI 364: International Organizations | [2022 Winter (Spring)](../teaching/poli364_202201/) |
+| POLI 364: International Organizations | [2022S](../teaching/poli364_202201/) |
    
 
 
