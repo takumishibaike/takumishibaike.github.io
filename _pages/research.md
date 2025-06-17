@@ -20,10 +20,10 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 ## Refereed Articles
 
-0. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics* (forthcoming). [doi.org/10.1086/732968](https://doi.org/10.1086/732968){:target="_blank"}.
+0. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics* 87.3 (2025). [doi.org/10.1086/732968](https://doi.org/10.1086/732968){:target="_blank"}.
 * Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY){:target="_blank"}.
 
-0. "The 'inclusion' of civil society in the Organisation of African Unity." *Interest Groups & Advocacy* Online First (2025). (with Alfred Oduro). [doi.org/10.1057/s41309-025-00232-2](https://doi.org/10.1057/s41309-025-00232-2){:target="_blank"}.
+0. "The 'inclusion' of civil society in the Organisation of African Unity." *Interest Groups & Advocacy* 14.2 (2025). (with Alfred Oduro). [doi.org/10.1057/s41309-025-00232-2](https://doi.org/10.1057/s41309-025-00232-2){:target="_blank"}.
 
 0. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly* 67.2 (2023): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
