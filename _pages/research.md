@@ -15,7 +15,7 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 0. *Who tells your story? Women and indigenous peoples advocacy at the UNFCCC*. Cambridge University Press (Elements in organizational respone to climate change), 2025. (with Bi Zhao). [doi.org/10.1017/9781009472920](https://www.cambridge.org/core/elements/abs/who-tells-your-story/F3266F3D357726E4D60EBA02292B8716){:target="_blank"}.
 
-0. *Canadian defence policy and the media*. (eds.). UBC Press, under contract. (with Jean-Christophe Boucher and Alexandra Richards).
+0. *Framing the Military: News Media and Canadian Defence Politics*. (eds.). UBC Press, under contract. (with Jean-Christophe Boucher and Alexandra Richards).
 {: reversed="reversed"}
 
 ## Refereed Articles
@@ -23,7 +23,7 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 0. "Local backlash against INGOs? How heterogeneous interests condition the effects of conservation advocacy campaigns." *The Journal of Politics* 87.3 (2025): 1156--1168. [doi.org/10.1086/732968](https://doi.org/10.1086/732968){:target="_blank"}.
 * Pre-analysis plan: [doi.org/10.17605/OSF.IO/4V9GY](https://doi.org/10.17605/OSF.IO/4V9GY){:target="_blank"}.
 
-0. "The 'inclusion' of civil society in the Organisation of African Unity." *Interest Groups & Advocacy* 14.2 (2025): 89--106. (with Alfred Oduro). [doi.org/10.1057/s41309-025-00232-2](https://doi.org/10.1057/s41309-025-00232-2){:target="_blank"}.
+0. "The 'inclusion' of civil society in the Organization of African Unity." *Interest Groups & Advocacy* 14.2 (2025): 89--106. (with Alfred Oduro). [doi.org/10.1057/s41309-025-00232-2](https://doi.org/10.1057/s41309-025-00232-2){:target="_blank"}.
 
 0. "The power of specialization: NGO advocacy in global conservation governance." *International Studies Quarterly* 67.2 (2023): sqad023. [doi.org/10.1177/08997640221085731](https://doi.org/10.1093/isq/sqad023){:target="_blank"}.
 
@@ -41,13 +41,14 @@ Acronyms: NGO (nongovernmental organization), INGO (international nongovernmenta
 
 ## Working Papers
 
-0. "Emotions and climate justice in social media posts during UNFCCC COPs."
+0. "The Emergence of Hybrid Organizations." (with Graeme Auld, Søren Lund Frandsen, Jacob Hasselbalch, Stefan Renckens, and Ole Willers).
 
-0. "Understanding agenda-setting and outcomes in tuna RFMOs: A machine-learning approach." (with Laurenne Schiller and Graeme Auld).
+0. "Deep-Sea Mining and the Agency of Pacific Island Countries." (with Azusa Uji).
 
-0. "Framing climate justice at UNFCCC COP Side Events." (with Bi Zhao).
+0. "Does hope help? Emotions and climate justice in social media posts during UNFCCC COPs."
 
-0. "The analysis of Canadian media coverage on military procurement (2001-2019)." (with Jean-Christophe Boucher).
+0. "Ideologies and North-South Representations of NGOs at CITES."
 
-0. ["Conservation governance: Complex relationship between the governor and the governed."](../research/paper7/) (with Graeme Auld).
-{: reversed="reversed"}
+0. "Framing climate justice at the UNFCCC." (with Bi Zhao).
+
+0. "Military Procurement in the Canadian News (2001-2019)." In *Framing the Military: News Media and Canadian Defence Politics*. (with Jean-Christophe Boucher).
