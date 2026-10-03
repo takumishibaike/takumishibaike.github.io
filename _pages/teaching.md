@@ -12,20 +12,20 @@ My goal is to help students develop their intellectual skills to identify import
 
 ### Syracuse University
 
-| MAX 132: Global Community | [2024F](../teaching/max132_202408/), 2025F, 2026F  |
-| PSC 318: Technology, Politics, and Environment | [2024S](../teaching/psc318_202401/), 2025S, 2025F, 2026F |
-| PSC 600: Global Environmental Governance | [2024F](../teaching/psc600_202408/) |
-| PSC 757: Non-State Actors in World Affairs | 2027S |
+| [MAX 132: Global Community](../teaching/max132/), | 2024F, 2025F, 2026F  |
+| [PSC 318: Technology, Politics, and Environment](../teaching/psc318/), | 2024S, 2025S, 2025F, 2026F |
+| [PSC 600: Global Environmental Governance](../teaching/psc600/) | 2024F |
+| [PSC 757: Non-State Actors in World Affairs](../teaching/psc757/) | 2027S |
 
 ### Duke Kunshan University
 
-| POLSCI 101: International Politics | [2022F](../teaching/polsci101_202202/), [2023S](../teaching/polsci101_202304/)  |
-| ENVIR 301: International Environmental Policy | [2023S](../teaching/envir301_202304/) |
+| POLSCI 101: International Politics | 2022F, 2023S  |
+| ENVIR 301: International Environmental Policy | 2023S |
 
 
 ### University of British Columbia, Okanagan
 
-| POLI 364: International Organizations | [2022S](../teaching/poli364_202201/) |
+| POLI 364: International Organizations | 2022S |
    
 
 
