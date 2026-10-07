@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Download CV [here](http://takumishibaike.github.io/files/Shibaike_CV.pdf){:target="_blank"}.
+Download CV [here](/files/Shibaike_CV.pdf){:target="_blank"}.
 
 Contact me at [tshibaik@syr.edu](mailto:tshibaik@syr.edu).
 
